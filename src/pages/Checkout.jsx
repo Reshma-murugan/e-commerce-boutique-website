@@ -1,4 +1,4 @@
-import { useState, useContext } from 'react';
+import { useState, useContext, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Check } from 'lucide-react';
 import { CartContext } from '../context/CartContext.jsx';
@@ -47,19 +47,18 @@ const Checkout = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     const orderNumber = `AR-${Date.now().toString().slice(-6)}`;
-    
-    // Play professional success sound (stored locally in public folder)
-    try {
-      const audio = new Audio('/success.mp3');
-      audio.volume = 0.5;
-      audio.play().catch(err => console.error("Audio play failed:", err));
-    } catch (err) {
-      console.error("Audio initialization failed:", err);
-    }
-
     setOrderSnapshot({ items: [...cart], total: getCartTotal() });
     setOrderPlaced(orderNumber);
   };
+
+  // Sync success sound with animation
+  useEffect(() => {
+    if (orderPlaced) {
+      const audio = new Audio('/success.mp3');
+      audio.volume = 0.5;
+      audio.play().catch(err => console.error("Audio play failed:", err));
+    }
+  }, [orderPlaced]);
 
   if (cart.length === 0 && !orderPlaced) {
     navigate('/cart');
