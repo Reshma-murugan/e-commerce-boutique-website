@@ -139,7 +139,7 @@ const Home = () => {
         </div>
 
         {error ? (
-          <Error message="Could not load products. Make sure json-server is running on port 3000." />
+          <Error message="Could not load products. Please try refreshing the page." />
         ) : products.length === 0 && loading ? (
           <SkeletonGrid count={8} />
         ) : products.length === 0 && !loading ? (

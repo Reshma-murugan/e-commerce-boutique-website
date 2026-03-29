@@ -4,7 +4,7 @@ import { ArrowLeft, ShoppingCart, Heart, Star, Truck, RotateCcw, ShieldCheck } f
 import { CartContext } from '../context/CartContext.jsx';
 import { WishlistContext } from '../context/WishlistContext.jsx';
 import { ToastContext } from '../context/ToastContext.jsx';
-import useFetch from '../hooks/useFetch';
+import { dataService } from '../services/dataService';
 import useProductFeed from '../hooks/useProductFeed';
 import Loading from '../components/Loading';
 import Error from '../components/Error';
@@ -32,7 +32,33 @@ const ProductDetails = () => {
   const [sizeError, setSizeError] = useState(false);
   const [activeImg, setActiveImg] = useState(0);
 
-  const { data: product, loading, error } = useFetch(`/api/products/${id}`);
+  const [product, setProduct] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    let cancelled = false;
+    const fetchProduct = async () => {
+      setLoading(true);
+      setError(null);
+      try {
+        const data = await dataService.getProductById(id);
+        if (!cancelled) {
+          if (data) {
+            setProduct(data);
+          } else {
+            setError('Product not found');
+          }
+        }
+      } catch (err) {
+        if (!cancelled) setError(err.message);
+      } finally {
+        if (!cancelled) setLoading(false);
+      }
+    };
+    fetchProduct();
+    return () => { cancelled = true; };
+  }, [id]);
   const { products: similarProducts } = useProductFeed(
     product ? { category: product.category, subcategory: product.subcategory, limit: 20 } : {}
   );

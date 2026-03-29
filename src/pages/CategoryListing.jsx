@@ -36,7 +36,7 @@ const CategoryListing = () => {
   const { visibleItems, hasMore: _, sentinelRef: __ } = { visibleItems: filtered, hasMore, sentinelRef };
 
   if (!catMeta) return <Error message={`Category "${slug}" not found.`} />;
-  if (error) return <Error message="Could not load products. Make sure json-server is running." />;
+  if (error) return <Error message="Could not load products. Please try refreshing the page." />;
 
   const pageTitle = subMeta ? subMeta.label : catMeta.label;
   const pageDesc  = subMeta ? subMeta.desc  : catMeta.description;
