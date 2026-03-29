@@ -48,9 +48,23 @@ const Checkout = () => {
     e.preventDefault();
     const orderNumber = `AR-${Date.now().toString().slice(-6)}`;
     
-    // Play success sound (stored locally in public folder)
-    const audio = new Audio('/success.mp3');
-    audio.play().catch(err => console.log("Audio play failed:", err));
+    // Synthetic Success Chime (100% reliable, zero assets)
+    try {
+      const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+      const osc = audioCtx.createOscillator();
+      const gain = audioCtx.createGain();
+      osc.type = 'sine';
+      osc.frequency.setValueAtTime(880, audioCtx.currentTime); // high note
+      osc.frequency.exponentialRampToValueAtTime(440, audioCtx.currentTime + 0.5); // slide down
+      gain.gain.setValueAtTime(0.1, audioCtx.currentTime);
+      gain.gain.exponentialRampToValueAtTime(0.01, audioCtx.currentTime + 0.5);
+      osc.connect(gain);
+      gain.connect(audioCtx.destination);
+      osc.start();
+      osc.stop(audioCtx.currentTime + 0.5);
+    } catch (err) {
+      console.error("Audio chime failed:", err);
+    }
 
     setOrderSnapshot({ items: [...cart], total: getCartTotal() });
     setOrderPlaced(orderNumber);
