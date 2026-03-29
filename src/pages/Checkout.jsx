@@ -47,6 +47,11 @@ const Checkout = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     const orderNumber = `AR-${Date.now().toString().slice(-6)}`;
+    
+    // Play success sound
+    const audio = new Audio('https://cdn.pixabay.com/audio/2022/03/10/audio_c35270364d.mp3');
+    audio.play().catch(err => console.log("Audio play failed:", err));
+
     setOrderSnapshot({ items: [...cart], total: getCartTotal() });
     setOrderPlaced(orderNumber);
   };
