@@ -1,4 +1,4 @@
-import { useState, useContext, useEffect } from 'react';
+import { useState, useContext, useEffect, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Check } from 'lucide-react';
 import { CartContext } from '../context/CartContext.jsx';
@@ -44,6 +44,12 @@ const Checkout = () => {
     });
   };
 
+  const successAudio = useRef(new Audio('/success.mp3'));
+
+  useEffect(() => {
+    successAudio.current.load(); // Pre-load audio
+  }, []);
+
   const handleSubmit = (e) => {
     e.preventDefault();
     const orderNumber = `AR-${Date.now().toString().slice(-6)}`;
@@ -51,12 +57,12 @@ const Checkout = () => {
     setOrderPlaced(orderNumber);
   };
 
-  // Sync success sound with animation
+  // Sync success sound and scroll to top
   useEffect(() => {
     if (orderPlaced) {
-      const audio = new Audio('/success.mp3');
-      audio.volume = 0.5;
-      audio.play().catch(err => console.error("Audio play failed:", err));
+      window.scrollTo(0, 0); // Ensure tick is visible
+      successAudio.current.volume = 0.5;
+      successAudio.current.play().catch(err => console.error("Audio play failed:", err));
     }
   }, [orderPlaced]);
 
