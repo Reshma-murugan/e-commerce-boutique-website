@@ -1,0 +1,4770 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Blue Infant Romper",
+      "price": 775,
+      "originalPrice": 1150,
+      "discount": 32,
+      "rating": 4.8,
+      "reviewCount": 308,
+      "isNew": true,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "rompers",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M"
+      ],
+      "fabric": "Cotton",
+      "stock": 7,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "romper"
+      ],
+      "description": "A soft sky blue romper designed for comfort and easy movement, perfect for everyday infant wear.",
+      "image": "https://images.unsplash.com/photo-1662191367194-6dd89dcfeb8c?w=300",
+      "images": [
+        "https://images.unsplash.com/photo-1662191367194-6dd89dcfeb8c?w=600",
+        "https://images.unsplash.com/photo-1662191367194-6dd89dcfeb8c?w=600&crop=faces",
+        "https://images.unsplash.com/photo-1662191367194-6dd89dcfeb8c?w=600&blur=8",
+        "https://images.unsplash.com/photo-1662191367194-6dd89dcfeb8c?w=600&sat=60"
+      ],
+      "search_text": "blue infant romper infant rompers cotton newborn soft baby comfortable romper a soft sky blue romper designed for comfort and easy movement, perfect for everyday infant wear. 0-24m onesie"
+    },
+    {
+      "id": 2,
+      "title": "Sky Blue Infant Romper",
+      "price": 799,
+      "originalPrice": 1099,
+      "discount": 27,
+      "rating": 4.7,
+      "reviewCount": 185,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "rompers",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M"
+      ],
+      "fabric": "sweater",
+      "stock": 10,
+      "tags": [
+        "baby",
+        "soft",
+        "summer",
+        "romper"
+      ],
+      "description": "A soft and breathable sky blue romper designed for infants, ensuring comfort and ease of movement.",
+      "image": "https://images.unsplash.com/photo-1773397404206-ba7951e39605?w=300",
+      "images": [
+        "https://images.unsplash.com/photo-1773397404206-ba7951e39605?w=600",
+        "https://images.unsplash.com/photo-1773397404206-ba7951e39605?w=600&crop=faces",
+        "https://images.unsplash.com/photo-1773397404206-ba7951e39605?w=600&blur=8",
+        "https://images.unsplash.com/photo-1773397404206-ba7951e39605?w=600&sat=50"
+      ],
+      "search_text": "sky blue infant romper infant rompers cotton baby soft summer romper a soft and breathable sky blue romper designed for infants, ensuring comfort and ease of movement. newborn 0-24m onesie hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 3,
+      "title": "Bright Orange Infant Romper",
+      "price": 699,
+      "originalPrice": 999,
+      "discount": 30,
+      "rating": 4.6,
+      "reviewCount": 142,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "rompers",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M"
+      ],
+      "fabric": "Cotton",
+      "stock": 12,
+      "tags": [
+        "baby",
+        "soft",
+        "summer",
+        "romper"
+      ],
+      "description": "A vibrant orange romper made from soft cotton fabric, designed for comfort and easy movement for infants.",
+      "image": "https://images.unsplash.com/photo-1731545708556-ce2fe84eea38?w=300",
+      "images": [
+        "https://images.unsplash.com/photo-1731545708556-ce2fe84eea38?w=600",
+        "https://images.unsplash.com/photo-1731545708556-ce2fe84eea38?w=600&crop=faces",
+        "https://images.unsplash.com/photo-1731545708556-ce2fe84eea38?w=600&blur=8",
+        "https://images.unsplash.com/photo-1731545708556-ce2fe84eea38?w=600&sat=50"
+      ],
+      "search_text": "bright orange infant romper infant rompers cotton baby soft summer romper a vibrant orange romper made from soft cotton fabric, designed for comfort and easy movement for infants. newborn 0-24m onesie hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 4,
+      "title": "Floral Infant Romper",
+      "price": 799,
+      "originalPrice": 1199,
+      "discount": 33,
+      "rating": 4.6,
+      "reviewCount": 175,
+      "isNew": true,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "rompers",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M"
+      ],
+      "fabric": "Cotton",
+      "stock": 11,
+      "tags": [
+        "baby",
+        "floral",
+        "soft",
+        "comfortable"
+      ],
+      "description": "A cute floral infant romper made from soft breathable cotton, perfect for everyday comfort and style.",
+      "image": "https://plus.unsplash.com/premium_photo-1679580961770-ceaac118cc7d?w=300",
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1679580961770-ceaac118cc7d?w=600",
+        "https://plus.unsplash.com/premium_photo-1679580961770-ceaac118cc7d?w=600&crop=faces",
+        "https://plus.unsplash.com/premium_photo-1679580961770-ceaac118cc7d?w=600&sat=60",
+        "https://plus.unsplash.com/premium_photo-1679580961770-ceaac118cc7d?w=600&blur=8"
+      ],
+      "search_text": "floral infant romper infant rompers cotton baby floral soft comfortable a cute floral infant romper made from soft breathable cotton, perfect for everyday comfort and style. newborn 0-24m onesie romper"
+    },
+    {
+      "id": 5,
+      "title": "White & Red Printed Infant Romper",
+      "price": 649,
+      "originalPrice": 899,
+      "discount": 28,
+      "rating": 4.5,
+      "reviewCount": 132,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "rompers",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M"
+      ],
+      "fabric": "Cotton",
+      "stock": 14,
+      "tags": [
+        "baby",
+        "printed",
+        "soft",
+        "daily wear"
+      ],
+      "description": "A soft white and red printed romper designed for everyday comfort and easy movement for infants.",
+      "image": "https://images.unsplash.com/photo-1594077929387-4614a220df5b?w=300",
+      "images": [
+        "https://images.unsplash.com/photo-1594077929387-4614a220df5b?w=600",
+        "https://images.unsplash.com/photo-1594077929387-4614a220df5b?w=600&crop=faces",
+        "https://images.unsplash.com/photo-1594077929387-4614a220df5b?w=600&sat=50",
+        "https://images.unsplash.com/photo-1594077929387-4614a220df5b?w=600&blur=8"
+      ],
+      "search_text": "white & red printed infant romper infant rompers cotton baby printed soft daily wear a soft white and red printed romper designed for everyday comfort and easy movement for infants. newborn 0-24m onesie romper"
+    },
+    {
+      "id": 6,
+      "title": "Navy Blue Infant Romper",
+      "price": 699,
+      "originalPrice": 899,
+      "discount": 22,
+      "rating": 4.6,
+      "reviewCount": 148,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "rompers",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M"
+      ],
+      "fabric": "Cotton",
+      "stock": 10,
+      "tags": [
+        "baby",
+        "soft",
+        "navy blue",
+        "comfortable"
+      ],
+      "description": "A stylish navy blue romper made from soft cotton fabric, designed for comfort and everyday wear.",
+      "image": "https://images.unsplash.com/photo-1605644235751-709c7254e3e3?w=300",
+      "images": [
+        "https://images.unsplash.com/photo-1605644235751-709c7254e3e3?w=600",
+        "https://images.unsplash.com/photo-1605644235751-709c7254e3e3?w=600&crop=faces",
+        "https://images.unsplash.com/photo-1605644235751-709c7254e3e3?w=600&sat=50",
+        "https://images.unsplash.com/photo-1605644235751-709c7254e3e3?w=600&blur=8"
+      ],
+      "search_text": "navy blue infant romper infant rompers cotton baby soft navy blue comfortable a stylish navy blue romper made from soft cotton fabric, designed for comfort and everyday wear. newborn 0-24m onesie romper"
+    },
+    {
+      "id": 7,
+      "title": "Gray fur Infant Romper",
+      "price": 729,
+      "originalPrice": 999,
+      "discount": 27,
+      "rating": 4.7,
+      "reviewCount": 164,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "rompers",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M"
+      ],
+      "fabric": "Cotton",
+      "stock": 13,
+      "tags": [
+        "baby",
+        "soft",
+        "colorful",
+        "comfortable"
+      ],
+      "description": "A soft and cozy  romper designed for infants, offering comfort and cute styling.",
+      "image": "https://images.unsplash.com/photo-1522771930-78848d9293e8?w=300",
+      "images": [
+        "https://images.unsplash.com/photo-1522771930-78848d9293e8?w=600",
+        "https://images.unsplash.com/photo-1522771930-78848d9293e8?w=600&crop=faces",
+        "https://images.unsplash.com/photo-1522771930-78848d9293e8?w=600&sat=50",
+        "https://images.unsplash.com/photo-1522771930-78848d9293e8?w=600&blur=8"
+      ],
+      "search_text": "gray fur infant romper infant rompers cotton baby soft colorful comfortable a soft and cozy romper designed for infants, offering comfort and cute styling. newborn 0-24m onesie romper"
+    },
+    {
+      "id": 8,
+      "title": "Stylish Infant Outfit Set",
+      "price": 899,
+      "originalPrice": 1299,
+      "discount": 31,
+      "rating": 4.5,
+      "reviewCount": 118,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "rompers",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M"
+      ],
+      "fabric": "Cotton Blend",
+      "stock": 10,
+      "tags": [
+        "baby",
+        "soft",
+        "stylish",
+        "outfit"
+      ],
+      "description": "A stylish infant outfit set designed for comfort and everyday wear, made with soft and breathable fabric.",
+      "image": "https://images.unsplash.com/photo-1626397538183-0a4165018e7b?w=300",
+      "images": [
+        "https://images.unsplash.com/photo-1626397538183-0a4165018e7b?w=600",
+        "https://images.unsplash.com/photo-1626397538183-0a4165018e7b?w=600&crop=faces",
+        "https://images.unsplash.com/photo-1626397538183-0a4165018e7b?w=600&sat=50",
+        "https://images.unsplash.com/photo-1626397538183-0a4165018e7b?w=600&blur=8"
+      ],
+      "search_text": "stylish infant outfit set infant rompers cotton blend baby soft stylish outfit a stylish infant outfit set designed for comfort and everyday wear, made with soft and breathable fabric. newborn 0-24m onesie romper"
+    },
+    {
+      "id": 9,
+      "title": "dusky pink Infant Romper",
+      "price": 699,
+      "originalPrice": 899,
+      "discount": 22,
+      "rating": 4.6,
+      "reviewCount": 140,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "rompers",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M"
+      ],
+      "fabric": "Cotton",
+      "stock": 12,
+      "tags": [
+        "baby",
+        "floral",
+        "soft",
+        "comfortable"
+      ],
+      "description": "A soft floral cotton romper designed for infants, offering comfort and breathable wear for daily use.",
+      "image": "https://images.pexels.com/photos/3875213/pexels-photo-3875213.jpeg?w=300",
+      "images": [
+        "https://images.pexels.com/photos/3875213/pexels-photo-3875213.jpeg?w=600",
+        "https://images.pexels.com/photos/3875213/pexels-photo-3875213.jpeg?w=600&crop=faces",
+        "https://images.pexels.com/photos/3875213/pexels-photo-3875213.jpeg?w=600&sat=50",
+        "https://images.pexels.com/photos/3875213/pexels-photo-3875213.jpeg?w=600&blur=8"
+      ],
+      "search_text": "dusky pink infant romper infant rompers cotton baby floral soft comfortable a soft floral cotton romper designed for infants, offering comfort and breathable wear for daily use. newborn 0-24m onesie romper"
+    },
+    {
+      "id": 10,
+      "title": "Soft Pink Infant Romper",
+      "price": 699,
+      "originalPrice": 899,
+      "discount": 22,
+      "rating": 4.6,
+      "reviewCount": 138,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "rompers",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M"
+      ],
+      "fabric": "Cotton",
+      "stock": 12,
+      "tags": [
+        "baby",
+        "soft",
+        "pink",
+        "comfortable"
+      ],
+      "description": "A soft pink infant romper made from breathable cotton fabric, designed for everyday comfort and gentle wear.",
+      "image": "https://images.pexels.com/photos/5027351/pexels-photo-5027351.jpeg?w=300",
+      "images": [
+        "https://images.pexels.com/photos/5027351/pexels-photo-5027351.jpeg?w=600",
+        "https://images.pexels.com/photos/5027351/pexels-photo-5027351.jpeg?w=600&crop=faces",
+        "https://images.pexels.com/photos/5027351/pexels-photo-5027351.jpeg?w=600&sat=50",
+        "https://images.pexels.com/photos/5027351/pexels-photo-5027351.jpeg?w=600&blur=8"
+      ],
+      "search_text": "soft pink infant romper infant rompers cotton baby soft pink comfortable a soft pink infant romper made from breathable cotton fabric, designed for everyday comfort and gentle wear. newborn 0-24m onesie romper"
+    },
+    {
+      "id": 11,
+      "title": "Off-White Fur Infant Romper",
+      "price": 899,
+      "originalPrice": 1199,
+      "discount": 25,
+      "rating": 4.7,
+      "reviewCount": 156,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "rompers",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M"
+      ],
+      "fabric": "Faux Fur",
+      "stock": 8,
+      "tags": [
+        "baby",
+        "winter",
+        "soft",
+        "fur",
+        "warm"
+      ],
+      "description": "A cozy off-white fur romper designed to keep infants warm and comfortable, perfect for winter wear.",
+      "image": "https://images.pexels.com/photos/35996813/pexels-photo-35996813.jpeg?w=300",
+      "images": [
+        "https://images.pexels.com/photos/35996813/pexels-photo-35996813.jpeg?w=600",
+        "https://images.pexels.com/photos/35996813/pexels-photo-35996813.jpeg?w=600&crop=faces",
+        "https://images.pexels.com/photos/35996813/pexels-photo-35996813.jpeg?w=600&sat=40",
+        "https://images.pexels.com/photos/35996813/pexels-photo-35996813.jpeg?w=600&blur=6"
+      ],
+      "search_text": "off-white fur infant romper infant rompers faux fur baby winter soft fur warm a cozy off-white fur romper designed to keep infants warm and comfortable, perfect for winter wear. cold snow fleece heavy jacket coat sweater cardigan hoodie thermal newborn 0-24m onesie romper"
+    },
+    {
+      "id": 12,
+      "title": "Baby Pink Woolen Infant Romper",
+      "price": 849,
+      "originalPrice": 1199,
+      "discount": 29,
+      "rating": 4.7,
+      "reviewCount": 162,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "rompers",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M"
+      ],
+      "fabric": "Wool Blend",
+      "stock": 9,
+      "tags": [
+        "baby",
+        "winter",
+        "soft",
+        "woolen",
+        "warm"
+      ],
+      "description": "A cozy baby pink woolen romper designed to keep infants warm and comfortable during colder seasons.",
+      "image": "https://images.pexels.com/photos/5606299/pexels-photo-5606299.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/5606299/pexels-photo-5606299.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/5606299/pexels-photo-5606299.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/5606299/pexels-photo-5606299.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/5606299/pexels-photo-5606299.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "baby pink woolen infant romper infant rompers wool blend baby winter soft woolen warm a cozy baby pink woolen romper designed to keep infants warm and comfortable during colder seasons. cold snow fleece heavy jacket coat sweater cardigan hoodie thermal newborn 0-24m onesie romper"
+    },
+    {
+      "id": 13,
+      "title": "Red Woolen Infant Romper",
+      "price": 879,
+      "originalPrice": 1199,
+      "discount": 27,
+      "rating": 4.8,
+      "reviewCount": 170,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "rompers",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M"
+      ],
+      "fabric": "Wool Blend",
+      "stock": 7,
+      "tags": [
+        "baby",
+        "winter",
+        "woolen",
+        "warm",
+        "soft"
+      ],
+      "description": "A cozy red woolen romper designed to keep infants warm and comfortable during colder seasons.",
+      "image": "https://images.pexels.com/photos/6635190/pexels-photo-6635190.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/6635190/pexels-photo-6635190.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/6635190/pexels-photo-6635190.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/6635190/pexels-photo-6635190.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/6635190/pexels-photo-6635190.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "red woolen infant romper infant rompers wool blend baby winter woolen warm soft a cozy red woolen romper designed to keep infants warm and comfortable during colder seasons. cold snow fleece heavy jacket coat sweater cardigan hoodie thermal newborn 0-24m onesie romper"
+    },
+    {
+      "id": 14,
+      "title": "Printed Infant Romper",
+      "price": 679,
+      "originalPrice": 899,
+      "discount": 24,
+      "rating": 4.6,
+      "reviewCount": 142,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "rompers",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M"
+      ],
+      "fabric": "Cotton",
+      "stock": 13,
+      "tags": [
+        "baby",
+        "printed",
+        "soft",
+        "daily wear"
+      ],
+      "description": "A stylish printed infant romper made from soft cotton fabric, perfect for everyday comfort and playful wear.",
+      "image": "https://images.pexels.com/photos/36099476/pexels-photo-36099476.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/36099476/pexels-photo-36099476.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/36099476/pexels-photo-36099476.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/36099476/pexels-photo-36099476.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/36099476/pexels-photo-36099476.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "printed infant romper infant rompers cotton baby printed soft daily wear a stylish printed infant romper made from soft cotton fabric, perfect for everyday comfort and playful wear. newborn 0-24m onesie romper"
+    },
+    {
+      "id": 15,
+      "title": "Yellow Fur Infant Romper",
+      "price": 899,
+      "originalPrice": 1199,
+      "discount": 25,
+      "rating": 4.7,
+      "reviewCount": 158,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "rompers",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M"
+      ],
+      "fabric": "Faux Fur",
+      "stock": 8,
+      "tags": [
+        "baby",
+        "winter",
+        "fur",
+        "warm",
+        "soft"
+      ],
+      "description": "A cozy yellow fur romper designed to keep infants warm and comfortable, perfect for colder seasons.",
+      "image": "https://images.pexels.com/photos/36746432/pexels-photo-36746432.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/36746432/pexels-photo-36746432.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/36746432/pexels-photo-36746432.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/36746432/pexels-photo-36746432.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/36746432/pexels-photo-36746432.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "yellow fur infant romper infant rompers faux fur baby winter fur warm soft a cozy yellow fur romper designed to keep infants warm and comfortable, perfect for colder seasons. cold snow fleece heavy jacket coat sweater cardigan hoodie thermal newborn 0-24m onesie romper"
+    },
+    {
+      "id": 17,
+      "title": "Black & White Striped Infant Romper",
+      "price": 699,
+      "originalPrice": 999,
+      "discount": 30,
+      "rating": 4.7,
+      "reviewCount": 150,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "rompers",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M"
+      ],
+      "fabric": "Cotton",
+      "stock": 12,
+      "tags": [
+        "baby",
+        "striped",
+        "cotton",
+        "comfortable"
+      ],
+      "description": "A stylish black and white striped romper made from soft cotton fabric, perfect for everyday comfort and classic styling.",
+      "image": "https://images.pexels.com/photos/3875081/pexels-photo-3875081.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/3875081/pexels-photo-3875081.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/3875081/pexels-photo-3875081.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/3875081/pexels-photo-3875081.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/3875081/pexels-photo-3875081.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "black & white striped infant romper infant rompers cotton baby striped comfortable a stylish black and white striped romper made from soft cotton fabric, perfect for everyday comfort and classic styling. newborn 0-24m onesie romper"
+    },
+    {
+      "id": 18,
+      "title": "Green Infant Onesie",
+      "price": 649,
+      "originalPrice": 899,
+      "discount": 28,
+      "rating": 4.5,
+      "reviewCount": 120,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "onesies",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M"
+      ],
+      "fabric": "Cotton",
+      "stock": 14,
+      "tags": [
+        "baby",
+        "green",
+        "soft",
+        "daily wear"
+      ],
+      "description": "A soft green infant onesie made from breathable cotton fabric, perfect for everyday comfort and easy movement.",
+      "image": "https://images.pexels.com/photos/6849471/pexels-photo-6849471.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/6849471/pexels-photo-6849471.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/6849471/pexels-photo-6849471.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/6849471/pexels-photo-6849471.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/6849471/pexels-photo-6849471.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "green infant onesie infant onesies cotton baby green soft daily wear a soft green infant onesie made from breathable cotton fabric, perfect for everyday comfort and easy movement. newborn 0-24m onesie romper"
+    },
+    {
+      "id": 130,
+      "title": "Lilac Infant Onesie",
+      "price": 649,
+      "originalPrice": 899,
+      "discount": 28,
+      "rating": 4.6,
+      "reviewCount": 135,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "onesies",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M"
+      ],
+      "fabric": "Cotton",
+      "stock": 14,
+      "tags": [
+        "baby",
+        "lilac",
+        "soft",
+        "daily wear"
+      ],
+      "description": "A soft lilac infant onesie made from breathable cotton fabric, designed for everyday comfort and easy movement.",
+      "image": "https://images.pexels.com/photos/6134658/pexels-photo-6134658.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/6134658/pexels-photo-6134658.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/6134658/pexels-photo-6134658.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/6134658/pexels-photo-6134658.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/6134658/pexels-photo-6134658.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "lilac infant onesie infant onesies cotton baby lilac soft daily wear a soft lilac infant onesie made from breathable cotton fabric, designed for everyday comfort and easy movement. newborn 0-24m onesie romper"
+    },
+    {
+      "id": 19,
+      "title": "Light Blue Infant Onesie",
+      "price": 629,
+      "originalPrice": 849,
+      "discount": 26,
+      "rating": 4.5,
+      "reviewCount": 98,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "onesies",
+      "sizes": [
+        "0‑3M",
+        "3‑6M",
+        "6‑12M"
+      ],
+      "fabric": "Cotton",
+      "stock": 15,
+      "tags": [
+        "baby",
+        "light blue",
+        "soft",
+        "daily wear"
+      ],
+      "description": "A soft light blue infant onesie made from breathable cotton, perfect for everyday comfort and easy movement.",
+      "image": "https://images.pexels.com/photos/26087137/pexels-photo-26087137.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/26087137/pexels-photo-26087137.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/26087137/pexels-photo-26087137.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/26087137/pexels-photo-26087137.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/26087137/pexels-photo-26087137.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "light blue infant onesie infant onesies cotton baby light blue soft daily wear a soft light blue infant onesie made from breathable cotton, perfect for everyday comfort and easy movement. newborn 0-24m onesie romper"
+    },
+    {
+      "id": 20,
+      "title": "White Infant Onesie",
+      "price": 579,
+      "originalPrice": 799,
+      "discount": 28,
+      "rating": 4.5,
+      "reviewCount": 105,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "onesies",
+      "sizes": [
+        "0‑3M",
+        "3‑6M",
+        "6‑12M"
+      ],
+      "fabric": "Cotton",
+      "stock": 18,
+      "tags": [
+        "baby",
+        "white",
+        "basic",
+        "daily wear"
+      ],
+      "description": "A classic white infant onesie made from soft cotton, perfect for daily comfort and easy wear.",
+      "image": "https://images.pexels.com/photos/18649618/pexels-photo-18649618.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/18649618/pexels-photo-18649618.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/18649618/pexels-photo-18649618.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/18649618/pexels-photo-18649618.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/18649618/pexels-photo-18649618.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "white infant onesie infant onesies cotton baby white basic daily wear a classic white infant onesie made from soft cotton, perfect for daily comfort and easy wear. newborn 0-24m onesie romper"
+    },
+    {
+      "id": 21,
+      "title": "Pastel Green Infant Onesie",
+      "price": 619,
+      "originalPrice": 839,
+      "discount": 26,
+      "rating": 4.5,
+      "reviewCount": 98,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "onesies",
+      "sizes": [
+        "0‑3M",
+        "3‑6M",
+        "6‑12M"
+      ],
+      "fabric": "Cotton",
+      "stock": 16,
+      "tags": [
+        "baby",
+        "pastel green",
+        "soft",
+        "comfortable"
+      ],
+      "description": "A pastel green infant onesie made from breathable cotton fabric — perfect for everyday comfort and easy movement.",
+      "image": "https://images.pexels.com/photos/18649622/pexels-photo-18649622.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/18649622/pexels-photo-18649622.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/18649622/pexels-photo-18649622.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/18649622/pexels-photo-18649622.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/18649622/pexels-photo-18649622.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "pastel green infant onesie infant onesies cotton baby pastel green soft comfortable a pastel green infant onesie made from breathable cotton fabric — perfect for everyday comfort and easy movement. newborn 0-24m onesie romper"
+    },
+    {
+      "id": 22,
+      "title": "Soft White & Blue Infant Onesie",
+      "price": 649,
+      "originalPrice": 899,
+      "discount": 28,
+      "rating": 4.6,
+      "reviewCount": 115,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "onesies",
+      "sizes": [
+        "0‑3M",
+        "3‑6M",
+        "6‑12M"
+      ],
+      "fabric": "Cotton",
+      "stock": 17,
+      "tags": [
+        "baby",
+        "white",
+        "blue",
+        "soft",
+        "comfortable"
+      ],
+      "description": "A soft white and blue infant onesie made from breathable cotton fabric, perfect for everyday comfort and gentle wear.",
+      "image": "https://images.pexels.com/photos/7973642/pexels-photo-7973642.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/7973642/pexels-photo-7973642.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/7973642/pexels-photo-7973642.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/7973642/pexels-photo-7973642.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/7973642/pexels-photo-7973642.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "soft white & blue infant onesie infant onesies cotton baby white blue soft comfortable a soft white and blue infant onesie made from breathable cotton fabric, perfect for everyday comfort and gentle wear. newborn 0-24m onesie romper"
+    },
+    {
+      "id": 23,
+      "title": "Half White Soft Onesie",
+      "price": 834,
+      "originalPrice": 1050,
+      "discount": 22,
+      "rating": 3.3,
+      "reviewCount": 188,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "onesies",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Organic Cotton",
+      "stock": 6,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "onesies"
+      ],
+      "description": "Soft half-white organic cotton onesie — gentle on baby's skin with easy snap buttons for quick changes.",
+      "image": "https://images.pexels.com/photos/15961868/pexels-photo-15961868.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/15961868/pexels-photo-15961868.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "half white soft onesie infant onesies organic cotton newborn soft baby comfortable soft half-white organic cotton onesie — gentle on baby's skin with easy snap buttons for quick changes. 0-24m onesie romper"
+    },
+    {
+      "id": 24,
+      "title": "White & Soft Pink Rabbit Romper",
+      "price": 1769,
+      "originalPrice": 2400,
+      "discount": 26,
+      "rating": 3.1,
+      "reviewCount": 1015,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "rompers",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Soft Cotton",
+      "stock": 9,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "rompers"
+      ],
+      "description": "Adorable white and soft pink rabbit romper in breathable cotton — perfect for your little bunny.",
+      "image": "https://images.pexels.com/photos/6251498/pexels-photo-6251498.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/6251498/pexels-photo-6251498.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "white & soft pink rabbit romper infant rompers soft cotton newborn soft baby comfortable adorable white and soft pink rabbit romper in breathable cotton — perfect for your little bunny. 0-24m onesie romper"
+    },
+    {
+      "id": 25,
+      "title": "Blue Star Printed Onesie",
+      "price": 872,
+      "originalPrice": 1400,
+      "discount": 38,
+      "rating": 3.8,
+      "reviewCount": 21,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "onesies",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Organic Cotton",
+      "stock": 35,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "onesies"
+      ],
+      "description": "Cute blue star printed onesie in soft organic cotton — easy snap buttons for quick diaper changes.",
+      "image": "https://images.pexels.com/photos/5872739/pexels-photo-5872739.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/5872739/pexels-photo-5872739.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "blue star printed onesie infant onesies organic cotton newborn soft baby comfortable cute blue star printed onesie in soft organic cotton — easy snap buttons for quick diaper changes. 0-24m onesie romper"
+    },
+    {
+      "id": 26,
+      "title": "Chocolate Brown Checked Onesie",
+      "price": 788,
+      "originalPrice": 1050,
+      "discount": 24,
+      "rating": 3,
+      "reviewCount": 153,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "onesies",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Soft Cotton",
+      "stock": 35,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "onesies"
+      ],
+      "description": "Warm chocolate brown checked onesie in soft cotton — cosy and easy to wear for everyday comfort.",
+      "image": "https://images.pexels.com/photos/4388973/pexels-photo-4388973.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/4388973/pexels-photo-4388973.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "chocolate brown checked onesie infant onesies soft cotton newborn soft baby comfortable warm chocolate brown checked onesie in soft cotton — cosy and easy to wear for everyday comfort. winter 0-24m onesie romper"
+    },
+    {
+      "id": 27,
+      "title": "Peach Animal Print Onesie",
+      "price": 1716,
+      "originalPrice": 2300,
+      "discount": 25,
+      "rating": 3.3,
+      "reviewCount": 547,
+      "isNew": true,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "onesies",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Soft Cotton",
+      "stock": 17,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "onesies"
+      ],
+      "description": "Adorable peach animal print onesie in soft cotton — fun prints and gentle fabric for your little one.",
+      "image": "https://images.pexels.com/photos/19797526/pexels-photo-19797526.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/19797526/pexels-photo-19797526.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "peach animal print onesie infant onesies soft cotton newborn soft baby comfortable adorable peach animal print onesie in soft cotton — fun prints and gentle fabric for your little one. 0-24m onesie romper"
+    },
+    {
+      "id": 28,
+      "title": "Ash Grey Soft Onesie",
+      "price": 872,
+      "originalPrice": 1300,
+      "discount": 34,
+      "rating": 4,
+      "reviewCount": 25,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "onesies",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Soft Cotton",
+      "stock": 36,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "onesies"
+      ],
+      "description": "Soft ash grey onesie in breathable cotton — simple, cosy and perfect for everyday infant wear.",
+      "image": "https://images.pexels.com/photos/7491215/pexels-photo-7491215.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/7491215/pexels-photo-7491215.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "ash grey soft onesie infant onesies soft cotton newborn soft baby comfortable soft ash grey onesie in breathable cotton — simple, cosy and perfect for everyday infant wear. 0-24m onesie romper"
+    },
+    {
+      "id": 29,
+      "title": "Pastel Sky Blue Onesie",
+      "price": 639,
+      "originalPrice": 750,
+      "discount": 15,
+      "rating": 4.4,
+      "reviewCount": 461,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "onesies",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Organic Cotton",
+      "stock": 35,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "onesies"
+      ],
+      "description": "Soft pastel sky blue onesie in organic cotton — gentle on baby's skin and easy to wear all day.",
+      "image": "https://images.pexels.com/photos/3845156/pexels-photo-3845156.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/3845156/pexels-photo-3845156.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "pastel sky blue onesie infant onesies organic cotton newborn soft baby comfortable soft pastel sky blue onesie in organic cotton — gentle on baby's skin and easy to wear all day. 0-24m onesie romper"
+    },
+    {
+      "id": 30,
+      "title": "Creamy Off-White Onesie",
+      "price": 2166,
+      "originalPrice": 3600,
+      "discount": 40,
+      "rating": 4.6,
+      "reviewCount": 584,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "onesies",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Organic Cotton",
+      "stock": 40,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "onesies"
+      ],
+      "description": "Creamy off-white onesie in pure organic cotton — timeless, soft and gentle for newborns and infants.",
+      "image": "https://images.pexels.com/photos/34692292/pexels-photo-34692292.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/34692292/pexels-photo-34692292.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "creamy off-white onesie infant onesies organic cotton newborn soft baby comfortable creamy off-white onesie in pure organic cotton — timeless, soft and gentle for newborns and infants. 0-24m onesie romper"
+    },
+    {
+      "id": 31,
+      "title": "Lavender Gray Onesie",
+      "price": 2338,
+      "originalPrice": 2450,
+      "discount": 5,
+      "rating": 4.7,
+      "reviewCount": 631,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "onesies",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Organic Cotton",
+      "stock": 12,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "onesies"
+      ],
+      "description": "Soft lavender gray onesie in organic cotton — a calming, neutral tone perfect for everyday infant wear.",
+      "image": "https://images.unsplash.com/photo-1661315470138-6b4a3d1a38ac?auto=format&fit=crop&w=400",
+      "images": [
+        "https://images.unsplash.com/photo-1661315470138-6b4a3d1a38ac?auto=format&fit=crop&w=400"
+      ],
+      "search_text": "lavender gray onesie infant onesies organic cotton newborn soft baby comfortable soft lavender gray onesie in organic cotton — a calming, neutral tone perfect for everyday infant wear. 0-24m onesie romper"
+    },
+    {
+      "id": 32,
+      "title": "Earthy Pastel Brown Onesie",
+      "price": 644,
+      "originalPrice": 800,
+      "discount": 18,
+      "rating": 3.7,
+      "reviewCount": 1154,
+      "isNew": true,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "onesies",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Organic Cotton",
+      "stock": 49,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "onesies"
+      ],
+      "description": "Earthy pastel brown onesie in organic cotton — warm, natural tones for your little one's everyday comfort.",
+      "image": "https://images.unsplash.com/photo-1676049342470-e0c3bd0d6707?auto=format&fit=crop&w=400",
+      "images": [
+        "https://images.unsplash.com/photo-1676049342470-e0c3bd0d6707?auto=format&fit=crop&w=400"
+      ],
+      "search_text": "earthy pastel brown onesie infant onesies organic cotton newborn soft baby comfortable earthy pastel brown onesie in organic cotton — warm, natural tones for your little one's everyday comfort. winter 0-24m onesie romper"
+    },
+    {
+      "id": 33,
+      "title": "Muted Salmon Pink winter Dress",
+      "price": 827,
+      "originalPrice": 1150,
+      "discount": 28,
+      "rating": 4.3,
+      "reviewCount": 358,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "winter",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton Lawn",
+      "stock": 11,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "winter"
+      ],
+      "description": "Muted salmon pink winter dress in lightweight cotton lawn — breezy and gentle for warm weather days.",
+      "image": "https://images.pexels.com/photos/6219950/pexels-photo-6219950.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/6219950/pexels-photo-6219950.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "muted salmon pink winter dress infant winter cotton lawn newborn soft baby comfortable muted salmon pink winter dress in lightweight cotton lawn — breezy and gentle for warm weather days. cold snow warm fleece heavy jacket coat sweater cardigan hoodie thermal 0-24m onesie romper frock gown skirt summer"
+    },
+    {
+      "id": 34,
+      "title": "Navy Blue Rainbow Printed Summer Dress",
+      "price": 1918,
+      "originalPrice": 2350,
+      "discount": 18,
+      "rating": 4.2,
+      "reviewCount": 969,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton",
+      "stock": 25,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "dresses"
+      ],
+      "description": "Vibrant navy blue summer dress with cheerful rainbow print — lightweight cotton perfect for sunny days.",
+      "image": "https://images.pexels.com/photos/4443866/pexels-photo-4443866.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/4443866/pexels-photo-4443866.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "navy blue rainbow printed summer dress infant summer cotton newborn soft baby comfortable dresses vibrant navy blue summer dress with cheerful rainbow print — lightweight cotton perfect for sunny days. 0-24m onesie romper frock gown skirt hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 35,
+      "title": "Bright Yellow Summer Frock",
+      "price": 670,
+      "originalPrice": 900,
+      "discount": 26,
+      "rating": 3.7,
+      "reviewCount": 441,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton Lawn",
+      "stock": 42,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "dresses"
+      ],
+      "description": "Bright yellow summer frock in lightweight cotton lawn — cheerful and breezy for warm sunny days.",
+      "image": "https://images.pexels.com/photos/5009302/pexels-photo-5009302.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/5009302/pexels-photo-5009302.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "bright yellow summer frock infant summer cotton lawn newborn soft baby comfortable dresses bright yellow summer frock in lightweight cotton lawn — cheerful and breezy for warm sunny days. winter 0-24m onesie romper dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 36,
+      "title": "Dusty Rose & Taupe Summer Frock",
+      "price": 1368,
+      "originalPrice": 1650,
+      "discount": 17,
+      "rating": 3.7,
+      "reviewCount": 442,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton Lawn",
+      "stock": 15,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "dresses"
+      ],
+      "description": "A delicate blend of dusty rose, taupe and soft blush — lightweight cotton lawn summer frock perfect for warm days.",
+      "image": "https://images.pexels.com/photos/16057263/pexels-photo-16057263.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/16057263/pexels-photo-16057263.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "dusty rose & taupe summer frock infant summer cotton lawn newborn soft baby comfortable dresses a delicate blend of dusty rose, taupe and soft blush — lightweight cotton lawn summer frock perfect for warm days. winter 0-24m onesie romper dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 37,
+      "title": "White Top Brown Checked Skirt Summer Dress",
+      "price": 1773,
+      "originalPrice": 1950,
+      "discount": 9,
+      "rating": 4.9,
+      "reviewCount": 1111,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton",
+      "stock": 50,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "dresses"
+      ],
+      "description": "Cute white top with brown and white checked skirt — a charming summer dress in soft cotton for little ones.",
+      "image": "https://images.pexels.com/photos/16437268/pexels-photo-16437268.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/16437268/pexels-photo-16437268.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "white top brown checked skirt summer dress infant summer cotton newborn soft baby comfortable dresses cute white top with brown and white checked skirt — a charming summer dress in soft cotton for little ones. 0-24m onesie romper frock gown skirt dress shirt hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 38,
+      "title": "White Cotton Frock",
+      "price": 1176,
+      "originalPrice": 1950,
+      "discount": 40,
+      "rating": 3.3,
+      "reviewCount": 428,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton",
+      "stock": 8,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "dresses"
+      ],
+      "description": "Classic white cotton frock — pure, soft and gentle for everyday infant wear.",
+      "image": "https://images.pexels.com/photos/6512670/pexels-photo-6512670.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/6512670/pexels-photo-6512670.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "white cotton frock infant summer cotton newborn soft baby comfortable dresses classic white cotton frock — pure, soft and gentle for everyday infant wear. 0-24m onesie romper dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 39,
+      "title": "Greige Cotton Frock with White Collar",
+      "price": 577,
+      "originalPrice": 700,
+      "discount": 20,
+      "rating": 3.9,
+      "reviewCount": 32,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton",
+      "stock": 36,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "dresses"
+      ],
+      "description": "Elegant greige cotton frock with a delicate white collar — a timeless classic for your little one.",
+      "image": "https://images.pexels.com/photos/27816523/pexels-photo-27816523.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/27816523/pexels-photo-27816523.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "greige cotton frock with white collar infant summer cotton newborn soft baby comfortable dresses elegant greige cotton frock with a delicate white collar — a timeless classic for your little one. 0-24m onesie romper dress party hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 40,
+      "title": "White & Yellow Floral One Piece Summer Dress",
+      "price": 2267,
+      "originalPrice": 2400,
+      "discount": 6,
+      "rating": 3.5,
+      "reviewCount": 723,
+      "isNew": true,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton",
+      "stock": 32,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "dresses"
+      ],
+      "description": "Cheerful white and yellow floral one piece summer dress — light, breezy cotton perfect for sunny days.",
+      "image": "https://images.pexels.com/photos/17736167/pexels-photo-17736167.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/17736167/pexels-photo-17736167.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "white & yellow floral one piece summer dress infant summer cotton newborn soft baby comfortable dresses cheerful white and yellow floral one piece summer dress — light, breezy cotton perfect for sunny days. 0-24m onesie romper frock gown skirt hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 41,
+      "title": "Light Gray Jumpsuit",
+      "price": 510,
+      "originalPrice": 700,
+      "discount": 28,
+      "rating": 3.6,
+      "reviewCount": 29,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "rompers",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton",
+      "stock": 24,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "rompers"
+      ],
+      "description": "Soft light gray jumpsuit in breathable cotton — easy to wear and perfect for warm summer days.",
+      "image": "https://images.pexels.com/photos/17690494/pexels-photo-17690494.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/17690494/pexels-photo-17690494.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "light gray jumpsuit infant rompers cotton newborn soft baby comfortable soft light gray jumpsuit in breathable cotton — easy to wear and perfect for warm summer days. winter 0-24m onesie romper hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 42,
+      "title": "Creamy Beige Summer Frock",
+      "price": 595,
+      "originalPrice": 650,
+      "discount": 8,
+      "rating": 4.1,
+      "reviewCount": 376,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton Lawn",
+      "stock": 32,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "dresses"
+      ],
+      "description": "Soft creamy beige summer frock in lightweight cotton lawn — gentle, airy and perfect for warm days.",
+      "image": "https://images.pexels.com/photos/15648165/pexels-photo-15648165.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/15648165/pexels-photo-15648165.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "creamy beige summer frock infant summer cotton lawn newborn soft baby comfortable dresses soft creamy beige summer frock in lightweight cotton lawn — gentle, airy and perfect for warm days. winter 0-24m onesie romper dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 43,
+      "title": "White Frock with Blue Floral Embroidery",
+      "price": 884,
+      "originalPrice": 1200,
+      "discount": 27,
+      "rating": 4.9,
+      "reviewCount": 891,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton",
+      "stock": 41,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "dresses"
+      ],
+      "description": "Elegant white summer frock with delicate blue floral embroidery — a charming look for your little one.",
+      "image": "https://images.pexels.com/photos/4714371/pexels-photo-4714371.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/4714371/pexels-photo-4714371.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "white frock with blue floral embroidery infant summer cotton newborn soft baby comfortable dresses elegant white summer frock with delicate blue floral embroidery — a charming look for your little one. 0-24m onesie romper dress party hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 44,
+      "title": "Creamy White Ruffled Summer Frock",
+      "price": 2250,
+      "originalPrice": 3000,
+      "discount": 25,
+      "rating": 4.4,
+      "reviewCount": 548,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton",
+      "stock": 19,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "dresses"
+      ],
+      "description": "Delicate creamy white ruffled summer frock in soft cotton — sweet, airy and perfect for warm days.",
+      "image": "https://images.pexels.com/photos/36622031/pexels-photo-36622031.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/36622031/pexels-photo-36622031.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "creamy white ruffled summer frock infant summer cotton newborn soft baby comfortable dresses delicate creamy white ruffled summer frock in soft cotton — sweet, airy and perfect for warm days. winter 0-24m onesie romper dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 45,
+      "title": "Bright Pink Cotton Blend Summer Frock",
+      "price": 1729,
+      "originalPrice": 1800,
+      "discount": 5,
+      "rating": 3.1,
+      "reviewCount": 267,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton Blend",
+      "stock": 47,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "dresses"
+      ],
+      "description": "Bright pink cotton blend summer frock — vibrant, soft and breezy for your little one's sunny days.",
+      "image": "https://images.pexels.com/photos/7957143/pexels-photo-7957143.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/7957143/pexels-photo-7957143.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "bright pink cotton blend summer frock infant summer cotton blend newborn soft baby comfortable dresses bright pink cotton blend summer frock — vibrant, soft and breezy for your little one's sunny days. 0-24m onesie romper dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 46,
+      "title": "Creamy Pink Frock",
+      "price": 814,
+      "originalPrice": 1050,
+      "discount": 24,
+      "rating": 4.5,
+      "reviewCount": 1041,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton",
+      "stock": 25,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "dresses"
+      ],
+      "description": "Soft creamy pink frock in gentle cotton — a sweet and delicate look for your little one.",
+      "image": "https://images.pexels.com/photos/12790615/pexels-photo-12790615.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/12790615/pexels-photo-12790615.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "creamy pink frock infant summer cotton newborn soft baby comfortable dresses soft creamy pink frock in gentle cotton — a sweet and delicate look for your little one. 0-24m onesie romper dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 47,
+      "title": "Powder Ash Summer Frock",
+      "price": 1055,
+      "originalPrice": 1750,
+      "discount": 40,
+      "rating": 4.7,
+      "reviewCount": 225,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton",
+      "stock": 15,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "dresses"
+      ],
+      "description": "Soft powder ash summer frock in breathable cotton — a calm, muted tone perfect for everyday infant wear.",
+      "image": "https://images.pexels.com/photos/33354312/pexels-photo-33354312.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/33354312/pexels-photo-33354312.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "powder ash summer frock infant summer cotton newborn soft baby comfortable dresses soft powder ash summer frock in breathable cotton — a calm, muted tone perfect for everyday infant wear. 0-24m onesie romper dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 48,
+      "title": "Sky Blue Floral Frock",
+      "price": 1130,
+      "originalPrice": 1300,
+      "discount": 13,
+      "rating": 3.1,
+      "reviewCount": 24,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton",
+      "stock": 50,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "dresses"
+      ],
+      "description": "Cheerful sky blue floral frock in soft cotton — light, fresh and perfect for sunny days.",
+      "image": "https://images.pexels.com/photos/34572604/pexels-photo-34572604.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/34572604/pexels-photo-34572604.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "sky blue floral frock infant summer cotton newborn soft baby comfortable dresses cheerful sky blue floral frock in soft cotton — light, fresh and perfect for sunny days. 0-24m onesie romper dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 49,
+      "title": "Pink & Blue Butterfly Printed Casual Frock",
+      "price": 401,
+      "originalPrice": 550,
+      "discount": 28,
+      "rating": 4.8,
+      "reviewCount": 373,
+      "isNew": true,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "dresses",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton",
+      "stock": 21,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "dresses"
+      ],
+      "description": "Playful pink and blue butterfly printed casual frock in soft cotton — cheerful and breezy for summer days.",
+      "image": "https://images.pexels.com/photos/12351032/pexels-photo-12351032.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/12351032/pexels-photo-12351032.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "pink & blue butterfly printed casual frock infant dresses cotton newborn soft baby comfortable playful pink and blue butterfly printed casual frock in soft cotton — cheerful and breezy for summer days. 0-24m onesie romper dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 50,
+      "title": "Printed White Top & Blue Trousers Set",
+      "price": 559,
+      "originalPrice": 800,
+      "discount": 29,
+      "rating": 4.4,
+      "reviewCount": 284,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton",
+      "stock": 9,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "summer"
+      ],
+      "description": "Cute printed white top paired with soft blue trousers — a fresh and comfy everyday set for infants.",
+      "image": "https://images.pexels.com/photos/34618519/pexels-photo-34618519.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/34618519/pexels-photo-34618519.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "printed white top & blue trousers set infant summer cotton newborn soft baby comfortable cute printed white top paired with soft blue trousers — a fresh and comfy everyday set for infants. 0-24m onesie romper pants shirt hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 51,
+      "title": "Soft Pink Summer Frock",
+      "price": 598,
+      "originalPrice": 650,
+      "discount": 6,
+      "rating": 4.4,
+      "reviewCount": 45,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton",
+      "stock": 31,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "dresses"
+      ],
+      "description": "Gentle soft pink summer frock in breathable cotton — sweet and airy for your little one's warm days.",
+      "image": "https://images.pexels.com/photos/3995920/pexels-photo-3995920.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/3995920/pexels-photo-3995920.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "soft pink summer frock infant summer cotton newborn soft baby comfortable dresses gentle soft pink summer frock in breathable cotton — sweet and airy for your little one's warm days. winter 0-24m onesie romper dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 52,
+      "title": "White Shirt & Pants Summer Set",
+      "price": 1236,
+      "originalPrice": 1700,
+      "discount": 28,
+      "rating": 3.5,
+      "reviewCount": 888,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton",
+      "stock": 36,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "summer"
+      ],
+      "description": "Classic white shirt and pants summer set in soft cotton — clean, fresh and easy to wear for infants.",
+      "image": "https://images.pexels.com/photos/33581402/pexels-photo-33581402.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/33581402/pexels-photo-33581402.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "white shirt & pants summer set infant summer cotton newborn soft baby comfortable classic white shirt and pants summer set in soft cotton — clean, fresh and easy to wear for infants. 0-24m onesie romper trousers jeans bottoms leggings joggers sweatpants tee t-shirt top blouse polo hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 53,
+      "title": "Soft Red Summer Top",
+      "price": 1433,
+      "originalPrice": 1550,
+      "discount": 9,
+      "rating": 4.7,
+      "reviewCount": 1170,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton",
+      "stock": 30,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "rompers"
+      ],
+      "description": "Soft red summer top in breathable cotton — vibrant and comfortable for your little one's warm days.",
+      "image": "https://images.pexels.com/photos/9472320/pexels-photo-9472320.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/9472320/pexels-photo-9472320.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "soft red summer top infant summer cotton newborn soft baby comfortable rompers soft red summer top in breathable cotton — vibrant and comfortable for your little one's warm days. winter 0-24m onesie romper shirt hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 54,
+      "title": "Burnt Pink Banana Printed Summer Frock",
+      "price": 810,
+      "originalPrice": 850,
+      "discount": 5,
+      "rating": 4.7,
+      "reviewCount": 205,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Cotton",
+      "stock": 45,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "dresses"
+      ],
+      "description": "Fun burnt pink frock with cheerful banana print — lightweight cotton perfect for sunny summer days.",
+      "image": "https://images.pexels.com/photos/9152664/pexels-photo-9152664.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/9152664/pexels-photo-9152664.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "burnt pink banana printed summer frock infant summer cotton newborn soft baby comfortable dresses fun burnt pink frock with cheerful banana print — lightweight cotton perfect for sunny summer days. 0-24m onesie romper dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 55,
+      "title": "Shiny Flamingo Pink Party Frock",
+      "price": 966,
+      "originalPrice": 1450,
+      "discount": 33,
+      "rating": 4.3,
+      "reviewCount": 608,
+      "isNew": true,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "party wear",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Tulle & Satin",
+      "stock": 42,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "party",
+        "layette"
+      ],
+      "description": "Shiny flamingo pink party frock in tulle & satin — glamorous and adorable for special occasions.",
+      "image": "https://images.pexels.com/photos/6755888/pexels-photo-6755888.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/6755888/pexels-photo-6755888.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "shiny flamingo pink party frock infant party wear tulle & satin newborn soft baby party layette shiny flamingo pink party frock in tulle & satin — glamorous and adorable for special occasions. 0-24m onesie romper dress formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 56,
+      "title": "AuraRose Sunshine Yellow Net Party Frock",
+      "price": 1334,
+      "originalPrice": 1600,
+      "discount": 16,
+      "rating": 3.2,
+      "reviewCount": 756,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "party wear",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Soft Net",
+      "stock": 30,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "party",
+        "layette"
+      ],
+      "description": "Warm sunshine yellow net party frock — delicate, dreamy and perfect for your little one's special moments.",
+      "image": "https://images.pexels.com/photos/15579752/pexels-photo-15579752.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/15579752/pexels-photo-15579752.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "aurarose sunshine yellow net party frock infant party wear soft net newborn soft baby party layette warm sunshine yellow net party frock — delicate, dreamy and perfect for your little one's special moments. winter 0-24m onesie romper dress formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 57,
+      "title": "Peach Puff Netted Party Frock",
+      "price": 440,
+      "originalPrice": 600,
+      "discount": 26,
+      "rating": 3.4,
+      "reviewCount": 923,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "party wear",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Soft Net",
+      "stock": 19,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "party",
+        "layette"
+      ],
+      "description": "Dreamy peach puff netted party frock — soft, fluffy and perfect for your little one's special occasions.",
+      "image": "https://images.pexels.com/photos/14474479/pexels-photo-14474479.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/14474479/pexels-photo-14474479.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "peach puff netted party frock infant party wear soft net newborn soft baby party layette dreamy peach puff netted party frock — soft, fluffy and perfect for your little one's special occasions. 0-24m onesie romper dress formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 58,
+      "title": "White & Pink Glittery Top Skirt Party Set",
+      "price": 1173,
+      "originalPrice": 1900,
+      "discount": 39,
+      "rating": 4.2,
+      "reviewCount": 170,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "party wear",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Tulle & Satin",
+      "stock": 41,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "party",
+        "layette"
+      ],
+      "description": "Sparkling white and pink glittery top with matching skirt — a showstopping party set for your little princess.",
+      "image": "https://images.pexels.com/photos/30111516/pexels-photo-30111516.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "images": [
+        "https://images.pexels.com/photos/30111516/pexels-photo-30111516.jpeg?auto=compress&cs=tinysrgb&w=400"
+      ],
+      "search_text": "white & pink glittery top skirt party set infant party wear tulle & satin newborn soft baby party layette sparkling white and pink glittery top with matching skirt — a showstopping party set for your little princess. 0-24m onesie romper dress shirt formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 59,
+      "title": "Dawn Pink Floral Netted Infant Frock",
+      "price": 1199,
+      "originalPrice": 1599,
+      "discount": 25,
+      "rating": 4.8,
+      "reviewCount": 74,
+      "isNew": true,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "party wear",
+      "sizes": [
+        "0‑3M",
+        "3‑6M",
+        "6‑12M",
+        "12‑18M"
+      ],
+      "fabric": "Netted & Cotton Lining",
+      "stock": 9,
+      "tags": [
+        "baby",
+        "party wear",
+        "floral",
+        "netted",
+        "special occasion"
+      ],
+      "description": "A beautiful dawn pink floral netted frock designed for infants — perfect for special occasions and party wear, with soft lining and delicate detailing.",
+      "image": "https://images.pexels.com/photos/33807434/pexels-photo-33807434.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/33807434/pexels-photo-33807434.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/33807434/pexels-photo-33807434.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/33807434/pexels-photo-33807434.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/33807434/pexels-photo-33807434.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "dawn pink floral netted infant frock infant party wear netted & cotton lining baby floral netted special occasion a beautiful dawn pink floral netted frock designed for infants — perfect for special occasions and party wear, with soft lining and delicate detailing. newborn 0-24m onesie romper dress formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 60,
+      "title": "Bright Red Infant Frock",
+      "price": 1299,
+      "originalPrice": 1699,
+      "discount": 24,
+      "rating": 4.8,
+      "reviewCount": 142,
+      "isNew": true,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "party wear",
+      "sizes": [
+        "0‑3M",
+        "3‑6M",
+        "6‑12M",
+        "12‑18M"
+      ],
+      "fabric": "Cotton Blend",
+      "stock": 8,
+      "tags": [
+        "baby",
+        "party wear",
+        "bright red",
+        "dress",
+        "comfortable"
+      ],
+      "description": "A bright red infant frock dress made from soft cotton blend — perfect for parties, family events, and special occasions.",
+      "image": "https://images.pexels.com/photos/33807455/pexels-photo-33807455.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/33807455/pexels-photo-33807455.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/33807455/pexels-photo-33807455.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/33807455/pexels-photo-33807455.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/33807455/pexels-photo-33807455.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "bright red infant frock infant party wear cotton blend baby bright red dress comfortable a bright red infant frock dress made from soft cotton blend — perfect for parties, family events, and special occasions. newborn 0-24m onesie romper frock gown skirt formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 61,
+      "title": "Black & White Infant Party Frock",
+      "price": 1299,
+      "originalPrice": 1699,
+      "discount": 24,
+      "rating": 4.7,
+      "reviewCount": 127,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "party wear",
+      "sizes": [
+        "0‑3M",
+        "3‑6M",
+        "6‑12M",
+        "12‑18M"
+      ],
+      "fabric": "Netted",
+      "stock": 10,
+      "tags": [
+        "baby",
+        "party wear",
+        "black and white",
+        "netted",
+        "dress",
+        "comfortable"
+      ],
+      "description": "A stylish black and white netted infant party frock — perfect for events, family gatherings, and special occasions.",
+      "image": "https://images.pexels.com/photos/3995924/pexels-photo-3995924.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/3995924/pexels-photo-3995924.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/3995924/pexels-photo-3995924.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/3995924/pexels-photo-3995924.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/3995924/pexels-photo-3995924.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "black & white infant party frock infant party wear netted baby black and white dress comfortable a stylish black and white netted infant party frock — perfect for events, family gatherings, and special occasions. newborn 0-24m onesie romper frock gown skirt formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 62,
+      "title": "Soft Blue Netted Infant Gown",
+      "price": 1399,
+      "originalPrice": 1899,
+      "discount": 26,
+      "rating": 4.8,
+      "reviewCount": 92,
+      "isNew": true,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "party wear",
+      "sizes": [
+        "0‑3M",
+        "3‑6M",
+        "6‑12M",
+        "12‑18M"
+      ],
+      "fabric": "Netted & Satin Lining",
+      "stock": 7,
+      "tags": [
+        "baby",
+        "party wear",
+        "netted",
+        "gown",
+        "special occasion"
+      ],
+      "description": "A soft blue netted infant gown designed for special occasions and celebrations. Features delicate netted overlay with satin lining for comfort and elegance.",
+      "image": "https://images.pexels.com/photos/15114215/pexels-photo-15114215.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/15114215/pexels-photo-15114215.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/15114215/pexels-photo-15114215.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/15114215/pexels-photo-15114215.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/15114215/pexels-photo-15114215.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "soft blue netted infant gown infant party wear netted & satin lining baby netted gown special occasion a soft blue netted infant gown designed for special occasions and celebrations. features delicate netted overlay with satin lining for comfort and elegance. newborn 0-24m onesie romper dress formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 63,
+      "title": "Dark Green Cotton Infant Frock",
+      "price": 1099,
+      "originalPrice": 1499,
+      "discount": 27,
+      "rating": 4.6,
+      "reviewCount": 105,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "infant",
+      "subcategory": "party wear",
+      "sizes": [
+        "0‑3M",
+        "3‑6M",
+        "6‑12M",
+        "12‑18M"
+      ],
+      "fabric": "Cotton",
+      "stock": 11,
+      "tags": [
+        "baby",
+        "dark green",
+        "cotton",
+        "comfortable"
+      ],
+      "description": "A dark green cotton infant frock made from breathable, soft cotton — perfect for everyday wear and casual outings.",
+      "image": "https://images.pexels.com/photos/32902202/pexels-photo-32902202.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/32902202/pexels-photo-32902202.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/32902202/pexels-photo-32902202.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/32902202/pexels-photo-32902202.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/32902202/pexels-photo-32902202.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "dark green cotton infant frock infant party wear cotton baby dark green comfortable a dark green cotton infant frock made from breathable, soft cotton — perfect for everyday wear and casual outings. newborn 0-24m onesie romper dress formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 64,
+      "title": "Pure White Netted Infant Frock",
+      "price": 1299,
+      "originalPrice": 1699,
+      "discount": 24,
+      "rating": 4.7,
+      "reviewCount": 118,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "party wear",
+      "sizes": [
+        "0‑3M",
+        "3‑6M",
+        "6‑12M",
+        "12‑18M"
+      ],
+      "fabric": "Netted & Satin Lining",
+      "stock": 10,
+      "tags": [
+        "baby",
+        "pure white",
+        "netted",
+        "party wear",
+        "special occasion"
+      ],
+      "description": "A pure white netted infant frock designed for special occasions. Features delicate net overlay with satin lining for comfort and elegant styling.",
+      "image": "https://images.pexels.com/photos/27589786/pexels-photo-27589786.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/27589786/pexels-photo-27589786.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/27589786/pexels-photo-27589786.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/27589786/pexels-photo-27589786.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/27589786/pexels-photo-27589786.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "pure white netted infant frock infant party wear netted & satin lining baby pure white netted special occasion a pure white netted infant frock designed for special occasions. features delicate net overlay with satin lining for comfort and elegant styling. newborn 0-24m onesie romper dress formal fancy wedding celebration birthday elegant party"
+    },
+    {
+      "id": 65,
+      "title": "Oriental Pink Toddler Party Frock",
+      "price": 1399,
+      "originalPrice": 1899,
+      "discount": 26,
+      "rating": 4.7,
+      "reviewCount": 88,
+      "isNew": true,
+      "isBestSeller": true,
+      "category": "toddler",
+      "subcategory": "party wear",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y"
+      ],
+      "fabric": "Cotton Blend & Net Overlay",
+      "stock": 9,
+      "tags": [
+        "toddler",
+        "pink",
+        "party wear",
+        "frock",
+        "stylish"
+      ],
+      "description": "An elegant oriental pink frock for toddlers featuring a soft inner lining and stylish layered design — perfect for parties, birthdays, and special occasions.",
+      "image": "https://images.pexels.com/photos/32985952/pexels-photo-32985952.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/32985952/pexels-photo-32985952.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/32985952/pexels-photo-32985952.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/32985952/pexels-photo-32985952.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/32985952/pexels-photo-32985952.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "oriental pink toddler party frock toddler party wear cotton blend & net overlay pink frock stylish an elegant oriental pink frock for toddlers featuring a soft inner lining and stylish layered design — perfect for parties, birthdays, and special occasions. kids child 2t 3t 4t 5t dress formal fancy wedding celebration birthday elegant party"
+    },
+    {
+      "id": 66,
+      "title": "Sandy Yellow Toddler Casual Frock",
+      "price": 1199,
+      "originalPrice": 1599,
+      "discount": 25,
+      "rating": 4.6,
+      "reviewCount": 72,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "toddler",
+      "subcategory": "party wear",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y"
+      ],
+      "fabric": "Cotton",
+      "stock": 12,
+      "tags": [
+        "toddler",
+        "yellow",
+        "casual wear",
+        "cotton",
+        "comfortable"
+      ],
+      "description": "A sandy yellow cotton frock for toddlers designed for everyday comfort and casual outings, featuring a soft and breathable fabric.",
+      "image": "https://images.pexels.com/photos/10740275/pexels-photo-10740275.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/10740275/pexels-photo-10740275.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/10740275/pexels-photo-10740275.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/10740275/pexels-photo-10740275.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/10740275/pexels-photo-10740275.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "sandy yellow toddler casual frock toddler party wear cotton yellow casual wear comfortable a sandy yellow cotton frock for toddlers designed for everyday comfort and casual outings, featuring a soft and breathable fabric. kids child 2t 3t 4t 5t dress formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 67,
+      "title": "Baby Pink Ruffled Toddler Casual Frock",
+      "price": 1099,
+      "originalPrice": 1499,
+      "discount": 27,
+      "rating": 4.6,
+      "reviewCount": 64,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "toddler",
+      "subcategory": "party wear",
+      "sizes": [
+        "1-2Y",
+        "2-3Y",
+        "3-4Y",
+        "4-5Y"
+      ],
+      "fabric": "Cotton",
+      "stock": 13,
+      "tags": [
+        "toddler",
+        "pink",
+        "ruffled",
+        "casual wear",
+        "comfortable"
+      ],
+      "description": "A baby pink ruffled frock for toddlers made from soft cotton fabric, perfect for everyday comfort and playful outings.",
+      "image": "https://images.pexels.com/photos/33397002/pexels-photo-33397002.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/33397002/pexels-photo-33397002.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/33397002/pexels-photo-33397002.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/33397002/pexels-photo-33397002.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/33397002/pexels-photo-33397002.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "baby pink ruffled toddler casual frock toddler party wear cotton pink ruffled casual wear comfortable a baby pink ruffled frock for toddlers made from soft cotton fabric, perfect for everyday comfort and playful outings. infant kids child 2t 3t 4t 5t dress formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 68,
+      "title": "Blue Denim Toddler Romper",
+      "price": 1299,
+      "originalPrice": 1699,
+      "discount": 24,
+      "rating": 4.6,
+      "reviewCount": 58,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "toddler",
+      "subcategory": "casual wear",
+      "sizes": [
+        "1-2Y",
+        "2-3Y",
+        "3-4Y",
+        "4-5Y"
+      ],
+      "fabric": "Denim",
+      "stock": 10,
+      "tags": [
+        "toddler",
+        "denim",
+        "romper",
+        "casual wear",
+        "durable"
+      ],
+      "description": "A stylish blue denim romper for toddlers, designed for casual outings with a durable yet comfortable fabric.",
+      "image": "https://images.pexels.com/photos/17839399/pexels-photo-17839399.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/17839399/pexels-photo-17839399.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/17839399/pexels-photo-17839399.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/17839399/pexels-photo-17839399.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/17839399/pexels-photo-17839399.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "blue denim toddler romper toddler casual wear denim romper durable a stylish blue denim romper for toddlers, designed for casual outings with a durable yet comfortable fabric. infant kids child 2t 3t 4t 5t"
+    },
+    {
+      "id": 69,
+      "title": "Creamy Sandal Toddler Romper",
+      "price": 1199,
+      "originalPrice": 1599,
+      "discount": 25,
+      "rating": 4.5,
+      "reviewCount": 52,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "casual wear",
+      "sizes": [
+        "1-2Y",
+        "2-3Y",
+        "3-4Y",
+        "4-5Y"
+      ],
+      "fabric": "Cotton Blend",
+      "stock": 11,
+      "tags": [
+        "toddler",
+        "beige",
+        "romper",
+        "casual wear",
+        "comfortable"
+      ],
+      "description": "A creamy sandal-colored toddler romper made from soft cotton blend fabric, ideal for casual wear and everyday comfort.",
+      "image": "https://images.pexels.com/photos/25534022/pexels-photo-25534022.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/25534022/pexels-photo-25534022.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/25534022/pexels-photo-25534022.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/25534022/pexels-photo-25534022.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/25534022/pexels-photo-25534022.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "creamy sandal toddler romper toddler casual wear cotton blend beige romper comfortable a creamy sandal-colored toddler romper made from soft cotton blend fabric, ideal for casual wear and everyday comfort. infant kids child 2t 3t 4t 5t"
+    },
+    {
+      "id": 70,
+      "title": "Creamy Green Top & Grey Skirt Toddler Set",
+      "price": 1299,
+      "originalPrice": 1699,
+      "discount": 24,
+      "rating": 4.6,
+      "reviewCount": 49,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "casual wear",
+      "sizes": [
+        "1-2Y",
+        "2-3Y",
+        "3-4Y",
+        "4-5Y"
+      ],
+      "fabric": "Cotton Blend",
+      "stock": 10,
+      "tags": [
+        "toddler",
+        "set",
+        "top and skirt",
+        "casual wear",
+        "comfortable"
+      ],
+      "description": "A stylish creamy green top paired with a grey skirt, designed as a comfortable toddler outfit set for everyday wear.",
+      "image": "https://images.pexels.com/photos/32315523/pexels-photo-32315523.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/32315523/pexels-photo-32315523.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/32315523/pexels-photo-32315523.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/32315523/pexels-photo-32315523.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/32315523/pexels-photo-32315523.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "creamy green top & grey skirt toddler set toddler casual wear cotton blend set top and skirt comfortable a stylish creamy green top paired with a grey skirt, designed as a comfortable toddler outfit set for everyday wear. kids child 2t 3t 4t 5t dress shirt"
+    },
+    {
+      "id": 71,
+      "title": "Black & White Striped Maxi Dress with Brown Fur",
+      "price": 1599,
+      "originalPrice": 2199,
+      "discount": 27,
+      "rating": 4.7,
+      "reviewCount": 61,
+      "isNew": true,
+      "isBestSeller": true,
+      "category": "toddler",
+      "subcategory": "party wear",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y"
+      ],
+      "fabric": "Cotton Blend with Fur Detailing",
+      "stock": 8,
+      "tags": [
+        "toddler",
+        "maxi dress",
+        "striped",
+        "winter wear",
+        "stylish"
+      ],
+      "description": "A stylish black and white striped maxi dress for toddlers featuring soft brown fur detailing, perfect for winter outings and special occasions.",
+      "image": "https://images.pexels.com/photos/6349544/pexels-photo-6349544.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/6349544/pexels-photo-6349544.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/6349544/pexels-photo-6349544.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/6349544/pexels-photo-6349544.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/6349544/pexels-photo-6349544.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "black & white striped maxi dress with brown fur toddler party wear cotton blend with fur detailing maxi dress striped winter wear stylish a stylish black and white striped maxi dress for toddlers featuring soft brown fur detailing, perfect for winter outings and special occasions. cold snow warm fleece heavy jacket coat sweater cardigan hoodie thermal kids child 2t 3t 4t 5t frock gown skirt formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 72,
+      "title": "White & Honey Brown Toddler Frock",
+      "price": 1199,
+      "originalPrice": 1599,
+      "discount": 25,
+      "rating": 4.6,
+      "reviewCount": 57,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "toddler",
+      "subcategory": "casual wear",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y"
+      ],
+      "fabric": "Cotton Blend",
+      "stock": 10,
+      "tags": [
+        "toddler",
+        "white",
+        "brown",
+        "casual wear",
+        "comfortable"
+      ],
+      "description": "A charming white and honey brown frock for toddlers, crafted from soft cotton blend fabric, perfect for casual outings and everyday elegance.",
+      "image": "https://images.pexels.com/photos/20433625/pexels-photo-20433625.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/20433625/pexels-photo-20433625.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/20433625/pexels-photo-20433625.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/20433625/pexels-photo-20433625.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/20433625/pexels-photo-20433625.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "white & honey brown toddler frock toddler casual wear cotton blend white brown comfortable a charming white and honey brown frock for toddlers, crafted from soft cotton blend fabric, perfect for casual outings and everyday elegance. kids child 2t 3t 4t 5t dress"
+    },
+    {
+      "id": 73,
+      "title": "Yellow Toddler Casual Frock",
+      "price": 1099,
+      "originalPrice": 1499,
+      "discount": 27,
+      "rating": 4.5,
+      "reviewCount": 48,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "casual wear",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y"
+      ],
+      "fabric": "Cotton",
+      "stock": 14,
+      "tags": [
+        "toddler",
+        "yellow",
+        "casual wear",
+        "cotton",
+        "comfortable"
+      ],
+      "description": "A bright yellow cotton frock for toddlers, designed for everyday comfort and casual outings with a soft and breathable feel.",
+      "image": "https://images.pexels.com/photos/3771645/pexels-photo-3771645.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/3771645/pexels-photo-3771645.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/3771645/pexels-photo-3771645.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/3771645/pexels-photo-3771645.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/3771645/pexels-photo-3771645.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "yellow toddler casual frock toddler casual wear cotton yellow comfortable a bright yellow cotton frock for toddlers, designed for everyday comfort and casual outings with a soft and breathable feel. kids child 2t 3t 4t 5t dress"
+    },
+    {
+      "id": 74,
+      "title": "Lemon Breezy A-Line Dress",
+      "price": 718,
+      "originalPrice": 800,
+      "discount": 10,
+      "rating": 3.7,
+      "reviewCount": 1015,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "casual wear",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y"
+      ],
+      "fabric": "Tulle & Satin",
+      "stock": 43,
+      "tags": [
+        "toddler",
+        "playful",
+        "casual",
+        "cute",
+        "a-line"
+      ],
+      "description": "A charming a line in premium tulle & satin — machine washable and skin-safe.",
+      "image": "https://images.pexels.com/photos/3771645/pexels-photo-3771645.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "images": [
+        "https://images.pexels.com/photos/3771645/pexels-photo-3771645.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      ],
+      "search_text": "lemon breezy a-line dress toddler casual wear tulle & satin playful casual cute a-line a charming a line in premium tulle & satin — machine washable and skin-safe. kids child 2t 3t 4t 5t frock gown skirt"
+    },
+    {
+      "id": 74,
+      "title": "White Embroidered Cotton Toddler Frock",
+      "price": 1199,
+      "originalPrice": 1599,
+      "discount": 25,
+      "rating": 4.5,
+      "reviewCount": 50,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "summer",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "1-2Y",
+        "2-3Y",
+        "3-4Y"
+      ],
+      "fabric": "Cotton",
+      "stock": 12,
+      "tags": [
+        "toddler",
+        "white",
+        "embroidered",
+        "cotton",
+        "casual wear"
+      ],
+      "description": "A soft white cotton frock for toddlers featuring delicate embroidery, ideal for casual outings and everyday comfort.",
+      "image": "https://images.pexels.com/photos/28674064/pexels-photo-28674064.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/28674064/pexels-photo-28674064.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/28674064/pexels-photo-28674064.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/28674064/pexels-photo-28674064.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/28674064/pexels-photo-28674064.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "white embroidered cotton toddler frock toddler summer cotton white embroidered casual wear a soft white cotton frock for toddlers featuring delicate embroidery, ideal for casual outings and everyday comfort. kids child 2t 3t 4t 5t dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 75,
+      "title": "Floral Ruffled Toddler Frock",
+      "price": 1299,
+      "originalPrice": 1799,
+      "discount": 28,
+      "rating": 4.6,
+      "reviewCount": 63,
+      "isNew": true,
+      "isBestSeller": true,
+      "category": "toddler",
+      "subcategory": "summer",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y"
+      ],
+      "fabric": "Cotton Blend",
+      "stock": 9,
+      "tags": [
+        "toddler",
+        "floral",
+        "ruffled",
+        "party wear",
+        "cute"
+      ],
+      "description": "A pretty floral ruffled frock for toddlers with soft cotton blend fabric, ideal for birthdays, family outings, or special occasions.",
+      "image": "https://images.pexels.com/photos/8421969/pexels-photo-8421969.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/8421969/pexels-photo-8421969.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/8421969/pexels-photo-8421969.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/8421969/pexels-photo-8421969.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/8421969/pexels-photo-8421969.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "floral ruffled toddler frock toddler summer cotton blend floral ruffled party wear cute a pretty floral ruffled frock for toddlers with soft cotton blend fabric, ideal for birthdays, family outings, or special occasions. kids child 2t 3t 4t 5t dress formal fancy wedding celebration birthday elegant hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 76,
+      "title": "Lavender Ruffled Toddler Frock",
+      "price": 1499,
+      "originalPrice": 1999,
+      "discount": 25,
+      "rating": 4.6,
+      "reviewCount": 58,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "summer",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y"
+      ],
+      "fabric": "Cotton Blend",
+      "stock": 11,
+      "tags": [
+        "toddler",
+        "lavender",
+        "ruffled",
+        "summer wear",
+        "cute"
+      ],
+      "description": "A charming lavender ruffled frock for toddlers with soft cotton blend fabric and layered details, perfect for birthdays, family outings, or special occasions.",
+      "image": "https://images.pexels.com/photos/16420088/pexels-photo-16420088.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/16420088/pexels-photo-16420088.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/16420088/pexels-photo-16420088.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/16420088/pexels-photo-16420088.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/16420088/pexels-photo-16420088.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "lavender ruffled toddler frock toddler summer cotton blend lavender ruffled summer wear cute a charming lavender ruffled frock for toddlers with soft cotton blend fabric and layered details, perfect for birthdays, family outings, or special occasions. kids child 2t 3t 4t 5t dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 76,
+      "title": "Mauve Trendy Onesie",
+      "price": 448,
+      "originalPrice": 550,
+      "discount": 18,
+      "rating": 3.6,
+      "reviewCount": 977,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "infant",
+      "subcategory": "onesies",
+      "sizes": [
+        "0-3M",
+        "3-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "fabric": "Velvet",
+      "stock": 8,
+      "tags": [
+        "newborn",
+        "soft",
+        "baby",
+        "comfortable",
+        "onesies"
+      ],
+      "description": "Elegant onesies made from velvet — ideal for parties, outings, and everyday adventures.",
+      "image": "https://images.pexels.com/photos/5791337/pexels-photo-5791337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "images": [
+        "https://images.pexels.com/photos/5791337/pexels-photo-5791337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      ],
+      "search_text": "mauve trendy onesie infant onesies velvet newborn soft baby comfortable elegant onesies made from velvet — ideal for parties, outings, and everyday adventures. 0-24m onesie romper party"
+    },
+    {
+      "id": 77,
+      "title": "Watermelon Pink Floral Toddler Frock",
+      "price": 1399,
+      "originalPrice": 1899,
+      "discount": 26,
+      "rating": 4.6,
+      "reviewCount": 54,
+      "isNew": true,
+      "isBestSeller": true,
+      "category": "toddler",
+      "subcategory": "summer",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y"
+      ],
+      "fabric": "Cotton Blend",
+      "stock": 11,
+      "tags": [
+        "toddler",
+        "watermelon pink",
+        "floral",
+        "summer wear",
+        "casual wear",
+        "cute"
+      ],
+      "description": "A bright watermelon-pink frock for toddlers featuring a white floral print, crafted from a soft cotton blend for everyday comfort and outings.",
+      "image": "https://images.pexels.com/photos/36493876/pexels-photo-36493876.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/36493876/pexels-photo-36493876.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/36493876/pexels-photo-36493876.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/36493876/pexels-photo-36493876.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/36493876/pexels-photo-36493876.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "watermelon pink floral toddler frock toddler summer cotton blend watermelon pink floral summer wear casual wear cute a bright watermelon-pink frock for toddlers featuring a white floral print, crafted from a soft cotton blend for everyday comfort and outings. kids child 2t 3t 4t 5t dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 78,
+      "title": "Knee-Length Denim Toddler Top",
+      "price": 999,
+      "originalPrice": 1299,
+      "discount": 23,
+      "rating": 4.4,
+      "reviewCount": 37,
+      "isNew": false,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "casual wear",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y"
+      ],
+      "fabric": "Denim",
+      "stock": 15,
+      "tags": [
+        "toddler",
+        "denim",
+        "top",
+        "casual wear",
+        "knee length"
+      ],
+      "description": "A comfortable knee-length denim top for toddlers, ideal for pairing with leggings or shorts for casual everyday wear.",
+      "image": "https://images.pexels.com/photos/6991101/pexels-photo-6991101.jpeg?w=500&dpr=2",
+      "images": [
+        "https://images.pexels.com/photos/6991101/pexels-photo-6991101.jpeg?w=900&dpr=2",
+        "https://images.pexels.com/photos/6991101/pexels-photo-6991101.jpeg?w=900&dpr=2&crop=faces",
+        "https://images.pexels.com/photos/6991101/pexels-photo-6991101.jpeg?w=900&dpr=2&sat=50",
+        "https://images.pexels.com/photos/6991101/pexels-photo-6991101.jpeg?w=900&dpr=2&sharp=10"
+      ],
+      "search_text": "knee-length denim toddler top toddler casual wear denim top knee length a comfortable knee-length denim top for toddlers, ideal for pairing with leggings or shorts for casual everyday wear. kids child 2t 3t 4t 5t pants shirt summer"
+    },
+    {
+      "id": 79,
+      "title": "Pink Pattu Toddler Top & Skirt Ethnic Set",
+      "price": 1699,
+      "originalPrice": 2199,
+      "discount": 23,
+      "rating": 4.7,
+      "reviewCount": 45,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "ethnic",
+      "sizes": [
+        "1-2Y",
+        "2-3Y",
+        "3-4Y",
+        "4-5Y"
+      ],
+      "fabric": "Pattu (Silk Blend)",
+      "stock": 9,
+      "tags": [
+        "toddler",
+        "ethnic wear",
+        "pattu",
+        "top and skirt",
+        "festive"
+      ],
+      "description": "A traditional pink pattu top and skirt set for toddlers, ideal for festive occasions, cultural celebrations, and family gatherings.",
+      "image": "https://images.unsplash.com/photo-1749441975058-589213e556ff?q=80&w=687&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1749441975058-589213e556ff?q=80&w=1080&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1749441975058-589213e556ff?q=80&w=1080&auto=format&fit=crop&crop=faces",
+        "https://images.unsplash.com/photo-1749441975058-589213e556ff?q=80&w=1080&auto=format&fit=crop&sat=50",
+        "https://images.unsplash.com/photo-1749441975058-589213e556ff?q=80&w=1080&auto=format&fit=crop&sharp=10"
+      ],
+      "search_text": "pink pattu toddler top & skirt ethnic set toddler ethnic pattu (silk blend) ethnic wear pattu top and skirt festive a traditional pink pattu top and skirt set for toddlers, ideal for festive occasions, cultural celebrations, and family gatherings. kids child 2t 3t 4t 5t dress shirt"
+    },
+    {
+      "id": 80,
+      "title": "Pink Netted Anarkali with Dupatta",
+      "price": 1899,
+      "originalPrice": 2499,
+      "discount": 24,
+      "rating": 4.6,
+      "reviewCount": 38,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "ethnic",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y"
+      ],
+      "fabric": "Net with inner lining",
+      "stock": 12,
+      "tags": [
+        "anarkali",
+        "net dress",
+        "dupatta",
+        "ethnic wear",
+        "festive"
+      ],
+      "description": "A stylish pink netted Anarkali dress with a matching dupatta, designed for festive occasions and special events.",
+      "image": "https://images.unsplash.com/photo-1707805301407-c28c34aff2f8?q=80&w=686&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1707805301407-c28c34aff2f8?q=80&w=1080&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1707805301407-c28c34aff2f8?q=80&w=1080&auto=format&fit=crop&sat=30",
+        "https://images.unsplash.com/photo-1707805301407-c28c34aff2f8?q=80&w=1080&auto=format&fit=crop&sharp=10",
+        "https://images.unsplash.com/photo-1707805301407-c28c34aff2f8?q=80&w=1080&auto=format&fit=crop&contrast=10"
+      ],
+      "search_text": "pink netted anarkali with dupatta toddler ethnic net with inner lining anarkali net dress dupatta ethnic wear festive a stylish pink netted anarkali dress with a matching dupatta, designed for festive occasions and special events. kids child 2t 3t 4t 5t frock gown skirt"
+    },
+    {
+      "id": 81,
+      "title": "Navy Blue Choli Top with Skirt",
+      "price": 1999,
+      "originalPrice": 2599,
+      "discount": 23,
+      "rating": 4.4,
+      "reviewCount": 31,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "toddler",
+      "subcategory": "ethnic",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y",
+        "5-6Y"
+      ],
+      "fabric": "Net & Satin Blend",
+      "stock": 16,
+      "tags": [
+        "choli",
+        "skirt",
+        "navy blue",
+        "ethnic wear",
+        "festive"
+      ],
+      "description": "A navy blue choli top paired with a matching skirt, designed for a traditional look without a dupatta.",
+      "image": "https://images.pexels.com/photos/15730103/pexels-photo-15730103.jpeg?q=80&w=686&auto=format&fit=crop",
+      "images": [
+        "https://images.pexels.com/photos/15730103/pexels-photo-15730103.jpeg?q=80&w=1080&auto=format&fit=crop",
+        "https://images.pexels.com/photos/15730103/pexels-photo-15730103.jpeg?q=80&w=1080&auto=format&fit=crop&sat=20",
+        "https://images.pexels.com/photos/15730103/pexels-photo-15730103.jpeg?q=80&w=1080&auto=format&fit=crop&contrast=10"
+      ],
+      "search_text": "navy blue choli top with skirt toddler ethnic net & satin blend choli skirt navy blue ethnic wear festive a navy blue choli top paired with a matching skirt, designed for a traditional look without a dupatta. kids child 2t 3t 4t 5t dress shirt"
+    },
+    {
+      "id": 81,
+      "title": "Rose Fog Heavy Work Lehenga with Dupatta",
+      "price": 2499,
+      "originalPrice": 3199,
+      "discount": 22,
+      "rating": 4.7,
+      "reviewCount": 42,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "ethnic",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y",
+        "5-6Y"
+      ],
+      "fabric": "Net & Satin Blend with Embroidery",
+      "stock": 11,
+      "tags": [
+        "lehenga",
+        "rose fog",
+        "heavy work",
+        "dupatta",
+        "ethnic wear",
+        "festive"
+      ],
+      "description": "A rose-fog colored lehenga set with heavy work embroidery and a matching dupatta, ideal for weddings, festivals, and special occasions.",
+      "image": "https://images.pexels.com/photos/33566755/pexels-photo-33566755.jpeg?q=80&w=686&auto=format&fit=crop",
+      "images": [
+        "https://images.pexels.com/photos/33566755/pexels-photo-33566755.jpeg?q=80&w=1080&auto=format&fit=crop",
+        "https://images.pexels.com/photos/33566755/pexels-photo-33566755.jpeg?q=80&w=1080&auto=format&fit=crop&sat=25",
+        "https://images.pexels.com/photos/33566755/pexels-photo-33566755.jpeg?q=80&w=1080&auto=format&fit=crop&sharp=10",
+        "https://images.pexels.com/photos/33566755/pexels-photo-33566755.jpeg?q=80&w=1080&auto=format&fit=crop&contrast=10"
+      ],
+      "search_text": "rose fog heavy work lehenga with dupatta toddler ethnic net & satin blend with embroidery lehenga rose fog heavy work dupatta ethnic wear festive a rose-fog colored lehenga set with heavy work embroidery and a matching dupatta, ideal for weddings, festivals, and special occasions. winter kids child 2t 3t 4t 5t"
+    },
+    {
+      "id": 82,
+      "title": "Blue and Orange Pattu Pavadai Sattai",
+      "price": 1799,
+      "originalPrice": 2299,
+      "discount": 21,
+      "rating": 4.5,
+      "reviewCount": 29,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "ethnic",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y",
+        "5-6Y"
+      ],
+      "fabric": "Pattu (Silk Blend)",
+      "stock": 13,
+      "tags": [
+        "pavadai sattai",
+        "pattu",
+        "blue",
+        "orange",
+        "ethnic wear",
+        "traditional"
+      ],
+      "description": "A blue and orange pattu pavadai sattai set, perfect for festive occasions and traditional celebrations.",
+      "image": "https://images.pexels.com/photos/15582306/pexels-photo-15582306.jpeg?q=80&w=686&auto=format&fit=crop",
+      "images": [
+        "https://images.pexels.com/photos/15582306/pexels-photo-15582306.jpeg?q=80&w=1080&auto=format&fit=crop",
+        "https://images.pexels.com/photos/15582306/pexels-photo-15582306.jpeg?q=80&w=1080&auto=format&fit=crop&sat=30",
+        "https://images.pexels.com/photos/15582306/pexels-photo-15582306.jpeg?q=80&w=1080&auto=format&fit=crop&sharp=10",
+        "https://images.pexels.com/photos/15582306/pexels-photo-15582306.jpeg?q=80&w=1080&auto=format&fit=crop&contrast=10"
+      ],
+      "search_text": "blue and orange pattu pavadai sattai toddler ethnic pattu (silk blend) pavadai sattai pattu blue orange ethnic wear traditional a blue and orange pattu pavadai sattai set, perfect for festive occasions and traditional celebrations. kids child 2t 3t 4t 5t"
+    },
+    {
+      "id": 83,
+      "title": "Green and Orange Silk Choli",
+      "price": 1499,
+      "originalPrice": 1899,
+      "discount": 21,
+      "rating": 4.4,
+      "reviewCount": 18,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "ethnic",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y",
+        "5-6Y"
+      ],
+      "fabric": "Silk Blend",
+      "stock": 15,
+      "tags": [
+        "choli",
+        "silk",
+        "green",
+        "orange",
+        "ethnic wear",
+        "traditional"
+      ],
+      "description": "A vibrant green and orange silk choli top designed for ethnic occasions and festive celebrations.",
+      "image": "https://images.pexels.com/photos/12100636/pexels-photo-12100636.jpeg?q=80&w=686&auto=format&fit=crop",
+      "images": [
+        "https://images.pexels.com/photos/12100636/pexels-photo-12100636.jpeg?q=80&w=1080&auto=format&fit=crop",
+        "https://images.pexels.com/photos/12100636/pexels-photo-12100636.jpeg?q=80&w=1080&auto=format&fit=crop&sat=30",
+        "https://images.pexels.com/photos/12100636/pexels-photo-12100636.jpeg?q=80&w=1080&auto=format&fit=crop&sharp=10",
+        "https://images.pexels.com/photos/12100636/pexels-photo-12100636.jpeg?q=80&w=1080&auto=format&fit=crop&contrast=10"
+      ],
+      "search_text": "green and orange silk choli toddler ethnic silk blend choli silk green orange ethnic wear traditional a vibrant green and orange silk choli top designed for ethnic occasions and festive celebrations. kids child 2t 3t 4t 5t shirt"
+    },
+    {
+      "id": 84,
+      "title": "Green and Red Pattu Pavadai",
+      "price": 1899,
+      "originalPrice": 2399,
+      "discount": 21,
+      "rating": 4.6,
+      "reviewCount": 34,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "ethnic",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y",
+        "5-6Y"
+      ],
+      "fabric": "Pattu (Silk Blend)",
+      "stock": 12,
+      "tags": [
+        "pavadai",
+        "pattu",
+        "green",
+        "red",
+        "ethnic wear",
+        "traditional"
+      ],
+      "description": "A green and red pattu pavadai set, ideal for festive occasions, cultural celebrations, and traditional events.",
+      "image": "https://images.pexels.com/photos/10491567/pexels-photo-10491567.jpeg?q=80&w=686&auto=format&fit=crop",
+      "images": [
+        "https://images.pexels.com/photos/10491567/pexels-photo-10491567.jpeg?q=80&w=1080&auto=format&fit=crop",
+        "https://images.pexels.com/photos/10491567/pexels-photo-10491567.jpeg?q=80&w=1080&auto=format&fit=crop&sat=30",
+        "https://images.pexels.com/photos/10491567/pexels-photo-10491567.jpeg?q=80&w=1080&auto=format&fit=crop&sharp=10",
+        "https://images.pexels.com/photos/10491567/pexels-photo-10491567.jpeg?q=80&w=1080&auto=format&fit=crop&contrast=10"
+      ],
+      "search_text": "green and red pattu pavadai toddler ethnic pattu (silk blend) pavadai pattu green red ethnic wear traditional a green and red pattu pavadai set, ideal for festive occasions, cultural celebrations, and traditional events. kids child 2t 3t 4t 5t"
+    },
+    {
+      "id": 85,
+      "title": "Onam Skirt and Top Set",
+      "price": 1699,
+      "originalPrice": 2199,
+      "discount": 22,
+      "rating": 4.5,
+      "reviewCount": 26,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "ethnic",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y",
+        "5-6Y"
+      ],
+      "fabric": "Cotton/Silk Blend",
+      "stock": 14,
+      "tags": [
+        "Onam",
+        "skirt",
+        "top",
+        "ethnic wear",
+        "festive"
+      ],
+      "description": "A vibrant Onam skirt and top set in traditional colors, perfect for celebrating Onam and other cultural festivals.",
+      "image": "https://images.pexels.com/photos/14310389/pexels-photo-14310389.jpeg?q=80&w=686&auto=format&fit=crop",
+      "images": [
+        "https://images.pexels.com/photos/14310389/pexels-photo-14310389.jpeg?q=80&w=1080&auto=format&fit=crop",
+        "https://images.pexels.com/photos/14310389/pexels-photo-14310389.jpeg?q=80&w=1080&auto=format&fit=crop&sat=30",
+        "https://images.pexels.com/photos/14310389/pexels-photo-14310389.jpeg?q=80&w=1080&auto=format&fit=crop&sharp=10",
+        "https://images.pexels.com/photos/14310389/pexels-photo-14310389.jpeg?q=80&w=1080&auto=format&fit=crop&contrast=10"
+      ],
+      "search_text": "onam skirt and top set toddler ethnic cotton/silk blend onam skirt top ethnic wear festive a vibrant onam skirt and top set in traditional colors, perfect for celebrating onam and other cultural festivals. kids child 2t 3t 4t 5t dress shirt"
+    },
+    {
+      "id": 86,
+      "title": "Red Pyjama with Green Pant",
+      "price": 1399,
+      "originalPrice": 1799,
+      "discount": 22,
+      "rating": 4.2,
+      "reviewCount": 19,
+      "isNew": false,
+      "isBestSeller": true,
+      "category": "toddler",
+      "subcategory": "ethnic",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y",
+        "5-6Y"
+      ],
+      "fabric": "Cotton Blend",
+      "stock": 20,
+      "tags": [
+        "pyjama",
+        "pant",
+        "red",
+        "green",
+        "ethnic wear",
+        "comfortable"
+      ],
+      "description": "A comfortable set featuring a red pyjama and green pant combination, suitable for casual and festive ethnic wear.",
+      "image": "https://images.pexels.com/photos/35987923/pexels-photo-35987923.jpeg?q=80&w=686&auto=format&fit=crop",
+      "images": [
+        "https://images.pexels.com/photos/35987923/pexels-photo-35987923.jpeg?q=80&w=1080&auto=format&fit=crop",
+        "https://images.pexels.com/photos/35987923/pexels-photo-35987923.jpeg?q=80&w=1080&auto=format&fit=crop&sat=30",
+        "https://images.pexels.com/photos/35987923/pexels-photo-35987923.jpeg?q=80&w=1080&auto=format&fit=crop&sharp=10"
+      ],
+      "search_text": "red pyjama with green pant toddler ethnic cotton blend pyjama pant red green ethnic wear comfortable a comfortable set featuring a red pyjama and green pant combination, suitable for casual and festive ethnic wear. kids child 2t 3t 4t 5t"
+    },
+    {
+      "id": 87,
+      "title": "Yellow Embroidered Kurti with Pants",
+      "price": 1499,
+      "originalPrice": 1899,
+      "discount": 21,
+      "rating": 4.5,
+      "reviewCount": 26,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "ethnic",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Cotton Blend with Embroidery",
+      "stock": 17,
+      "tags": [
+        "kurti",
+        "pants",
+        "yellow",
+        "embroidered",
+        "ethnic wear",
+        "festive"
+      ],
+      "description": "A cheerful yellow embroidered kurti paired with comfortable pants, ideal for festive and casual occasions for kids aged 2–6 years.",
+      "image": "https://images.pexels.com/photos/17043208/pexels-photo-17043208.jpeg?q=80&w=686&auto=format&fit=crop",
+      "images": [
+        "https://images.pexels.com/photos/17043208/pexels-photo-17043208.jpeg?q=80&w=1080&auto=format&fit=crop",
+        "https://images.pexels.com/photos/17043208/pexels-photo-17043208.jpeg?q=80&w=1080&auto=format&fit=crop&sat=30",
+        "https://images.pexels.com/photos/17043208/pexels-photo-17043208.jpeg?q=80&w=1080&auto=format&fit=crop&sharp=10",
+        "https://images.pexels.com/photos/17043208/pexels-photo-17043208.jpeg?q=80&w=1080&auto=format&fit=crop&contrast=10"
+      ],
+      "search_text": "yellow embroidered kurti with pants toddler ethnic cotton blend with embroidery kurti pants yellow embroidered ethnic wear festive a cheerful yellow embroidered kurti paired with comfortable pants, ideal for festive and casual occasions for kids aged 2–6 years. kids child 2t 3t 4t 5t trousers jeans bottoms leggings joggers sweatpants"
+    },
+    {
+      "id": 88,
+      "title": "Blue Floral Kurti 2-Piece Set",
+      "price": 1599,
+      "originalPrice": 1999,
+      "discount": 20,
+      "rating": 4.5,
+      "reviewCount": 23,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "ethnic",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Cotton Blend",
+      "stock": 15,
+      "tags": [
+        "kurti",
+        "floral",
+        "blue",
+        "2-piece",
+        "pants",
+        "ethnic wear"
+      ],
+      "description": "A blue floral printed kurti with matching pants — a comfortable 2-piece ethnic set for kids aged 2–6 years.",
+      "image": "https://images.pexels.com/photos/17088769/pexels-photo-17088769.jpeg?q=80&w=686&auto=format&fit=crop",
+      "images": [
+        "https://images.pexels.com/photos/17088769/pexels-photo-17088769.jpeg?q=80&w=1080&auto=format&fit=crop",
+        "https://images.pexels.com/photos/17088769/pexels-photo-17088769.jpeg?q=80&w=1080&auto=format&fit=crop&sat=30",
+        "https://images.pexels.com/photos/17088769/pexels-photo-17088769.jpeg?q=80&w=1080&auto=format&fit=crop&sharp=10",
+        "https://images.pexels.com/photos/17088769/pexels-photo-17088769.jpeg?q=80&w=1080&auto=format&fit=crop&contrast=10"
+      ],
+      "search_text": "blue floral kurti 2-piece set toddler ethnic cotton blend kurti floral blue 2-piece pants ethnic wear a blue floral printed kurti with matching pants — a comfortable 2-piece ethnic set for kids aged 2–6 years. kids child 2t 3t 4t 5t trousers jeans bottoms leggings joggers sweatpants"
+    },
+    {
+      "id": 89,
+      "title": "Green Printed Top with Long Skirt",
+      "price": 1699,
+      "originalPrice": 2099,
+      "discount": 19,
+      "rating": 4.5,
+      "reviewCount": 21,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "ethnic",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Cotton Blend",
+      "stock": 14,
+      "tags": [
+        "top",
+        "skirt",
+        "green",
+        "printed",
+        "ethnic wear",
+        "two-piece"
+      ],
+      "description": "A green printed top paired with a long skirt — a stylish ethnic 2-piece set for kids aged 2–6 years.",
+      "image": "https://images.pexels.com/photos/11392710/pexels-photo-11392710.jpeg?q=80&w=686&auto=format&fit=crop",
+      "images": [
+        "https://images.pexels.com/photos/11392710/pexels-photo-11392710.jpeg?q=80&w=1080&auto=format&fit=crop",
+        "https://images.pexels.com/photos/11392710/pexels-photo-11392710.jpeg?q=80&w=1080&auto=format&fit=crop&sat=30",
+        "https://images.pexels.com/photos/11392710/pexels-photo-11392710.jpeg?q=80&w=1080&auto=format&fit=crop&sharp=10",
+        "https://images.pexels.com/photos/11392710/pexels-photo-11392710.jpeg?q=80&w=1080&auto=format&fit=crop&contrast=10"
+      ],
+      "search_text": "green printed top with long skirt toddler ethnic cotton blend top skirt green printed ethnic wear two-piece a green printed top paired with a long skirt — a stylish ethnic 2-piece set for kids aged 2–6 years. kids child 2t 3t 4t 5t dress shirt"
+    },
+    {
+      "id": 90,
+      "title": "Green Printed Top with Long Skirt",
+      "price": 1699,
+      "originalPrice": 2099,
+      "discount": 19,
+      "rating": 4.5,
+      "reviewCount": 21,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "ethnic",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Cotton Blend",
+      "stock": 14,
+      "tags": [
+        "top",
+        "skirt",
+        "green",
+        "printed",
+        "ethnic wear",
+        "two-piece"
+      ],
+      "description": "A green printed top paired with a long skirt — a stylish ethnic 2-piece set for kids aged 2–6 years.",
+      "image": "https://images.pexels.com/photos/11392710/pexels-photo-11392710.jpeg?q=80&w=686&auto=format&fit=crop",
+      "images": [
+        "https://images.pexels.com/photos/11392710/pexels-photo-11392710.jpeg?q=80&w=1080&auto=format&fit=crop",
+        "https://images.pexels.com/photos/11392710/pexels-photo-11392710.jpeg?q=80&w=1080&auto=format&fit=crop&sat=30",
+        "https://images.pexels.com/photos/11392710/pexels-photo-11392710.jpeg?q=80&w=1080&auto=format&fit=crop&sharp=10",
+        "https://images.pexels.com/photos/11392710/pexels-photo-11392710.jpeg?q=80&w=1080&auto=format&fit=crop&contrast=10"
+      ],
+      "search_text": "green printed top with long skirt toddler ethnic cotton blend top skirt green printed ethnic wear two-piece a green printed top paired with a long skirt — a stylish ethnic 2-piece set for kids aged 2–6 years. kids child 2t 3t 4t 5t dress shirt"
+    },
+    {
+      "id": 91,
+      "title": "Purple Party Gown",
+      "price": 1999,
+      "originalPrice": 2499,
+      "discount": 20,
+      "rating": 4.6,
+      "reviewCount": 28,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "party_wear",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Tulle & Satin Blend",
+      "stock": 16,
+      "tags": [
+        "gown",
+        "purple",
+        "party wear",
+        "festive",
+        "toddler"
+      ],
+      "description": "A lovely purple party gown with a flowy silhouette, perfect for toddler party wear (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/17661819/pexels-photo-17661819.jpeg?q=80&w=686&auto=format&fit=crop",
+      "images": [
+        "https://images.pexels.com/photos/17661819/pexels-photo-17661819.jpeg?q=80&w=1080&auto=format&fit=crop",
+        "https://images.pexels.com/photos/17661819/pexels-photo-17661819.jpeg?q=80&w=1080&auto=format&fit=crop&sat=30",
+        "https://images.pexels.com/photos/17661819/pexels-photo-17661819.jpeg?q=80&w=1080&auto=format&fit=crop&sharp=10",
+        "https://images.pexels.com/photos/17661819/pexels-photo-17661819.jpeg?q=80&w=1080&auto=format&fit=crop&contrast=10"
+      ],
+      "search_text": "purple party gown toddler party_wear tulle & satin blend gown purple party wear festive a lovely purple party gown with a flowy silhouette, perfect for toddler party wear (ages 2–6 years). kids child 2t 3t 4t 5t dress formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 92,
+      "title": "Bright Purple Netted Glittery Frock",
+      "price": 1899,
+      "originalPrice": 2399,
+      "discount": 20,
+      "rating": 4.6,
+      "reviewCount": 30,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "party_wear",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Netted Tulle with Glitter",
+      "stock": 14,
+      "tags": [
+        "frock",
+        "purple",
+        "glitter",
+        "netted",
+        "party wear",
+        "toddler"
+      ],
+      "description": "A bright purple netted glittery frock — perfect for toddler party wear (ages 2–6 years) with a fun, festive look.",
+      "image": "https://images.pexels.com/photos/36026403/pexels-photo-36026403.jpeg?q=80&w=686&auto=format&fit=crop",
+      "images": [
+        "https://images.pexels.com/photos/36026403/pexels-photo-36026403.jpeg?q=80&w=1080&auto=format&fit=crop",
+        "https://images.pexels.com/photos/36026403/pexels-photo-36026403.jpeg?q=80&w=1080&auto=format&fit=crop&sat=30",
+        "https://images.pexels.com/photos/36026403/pexels-photo-36026403.jpeg?q=80&w=1080&auto=format&fit=crop&sharp=10",
+        "https://images.pexels.com/photos/36026403/pexels-photo-36026403.jpeg?q=80&w=1080&auto=format&fit=crop&contrast=10"
+      ],
+      "search_text": "bright purple netted glittery frock toddler party_wear netted tulle with glitter frock purple glitter netted party wear a bright purple netted glittery frock — perfect for toddler party wear (ages 2–6 years) with a fun, festive look. kids child 2t 3t 4t 5t dress formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 93,
+      "title": "Pink Sherbet Western Frock",
+      "price": 1799,
+      "originalPrice": 2299,
+      "discount": 21,
+      "rating": 4.5,
+      "reviewCount": 25,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "party_wear",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Cotton Blend with Tulle",
+      "stock": 15,
+      "tags": [
+        "frock",
+        "pink",
+        "western",
+        "party wear",
+        "toddler"
+      ],
+      "description": "A pink sherbet western-style frock with a playful silhouette — perfect for toddler party wear (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/33977429/pexels-photo-33977429.jpeg?q=80&w=686&auto=format&fit=crop",
+      "images": [
+        "https://images.pexels.com/photos/33977429/pexels-photo-33977429.jpeg?q=80&w=1080&auto=format&fit=crop",
+        "https://images.pexels.com/photos/33977429/pexels-photo-33977429.jpeg?q=80&w=1080&auto=format&fit=crop&sat=30",
+        "https://images.pexels.com/photos/33977429/pexels-photo-33977429.jpeg?q=80&w=1080&auto=format&fit=crop&sharp=10",
+        "https://images.pexels.com/photos/33977429/pexels-photo-33977429.jpeg?q=80&w=1080&auto=format&fit=crop&contrast=10"
+      ],
+      "search_text": "pink sherbet western frock toddler party_wear cotton blend with tulle frock pink western party wear a pink sherbet western-style frock with a playful silhouette — perfect for toddler party wear (ages 2–6 years). kids child 2t 3t 4t 5t dress formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 94,
+      "title": "Western Magenta Top with White Netted Skirt",
+      "price": 1899,
+      "originalPrice": 2499,
+      "discount": 24,
+      "rating": 4.6,
+      "reviewCount": 18,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "party_wear",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Cotton Top + Tulle Skirt",
+      "stock": 12,
+      "tags": [
+        "western",
+        "magenta",
+        "skirt",
+        "top",
+        "party wear",
+        "toddler"
+      ],
+      "description": "A vibrant western-style magenta top paired with a white netted skirt — ideal for toddlers aged 2–6 years for parties and special occasions.",
+      "image": "https://images.pexels.com/photos/33877926/pexels-photo-33877926.png",
+      "images": [
+        "https://images.pexels.com/photos/33877926/pexels-photo-33877926.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/33877926/pexels-photo-33877926.png?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/33877926/pexels-photo-33877926.png?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "western magenta top with white netted skirt toddler party_wear cotton top + tulle skirt western magenta skirt top party wear a vibrant western-style magenta top paired with a white netted skirt — ideal for toddlers aged 2–6 years for parties and special occasions. kids child 2t 3t 4t 5t dress shirt formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 95,
+      "title": "White Floral Gown",
+      "price": 1999,
+      "originalPrice": 2599,
+      "discount": 23,
+      "rating": 4.7,
+      "reviewCount": 21,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "party_wear",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Soft Polyester Blend",
+      "stock": 15,
+      "tags": [
+        "party wear",
+        "gown",
+        "white floral",
+        "toddler"
+      ],
+      "description": "Elegant white floral gown for toddlers aged 2–6 years, ideal for birthday parties and special occasions.",
+      "image": "https://images.pexels.com/photos/36723433/pexels-photo-36723433.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/36723433/pexels-photo-36723433.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/36723433/pexels-photo-36723433.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/36723433/pexels-photo-36723433.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "white floral gown toddler party_wear soft polyester blend party wear gown white floral elegant white floral gown for toddlers aged 2–6 years, ideal for birthday parties and special occasions. kids child 2t 3t 4t 5t dress formal fancy wedding celebration birthday elegant party"
+    },
+    {
+      "id": 96,
+      "title": "Pink Netted Ruffled Gown",
+      "price": 2199,
+      "originalPrice": 2799,
+      "discount": 21,
+      "rating": 4.8,
+      "reviewCount": 25,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "party_wear",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Netted Polyester",
+      "stock": 14,
+      "tags": [
+        "party wear",
+        "gown",
+        "pink",
+        "netted",
+        "ruffled",
+        "toddler"
+      ],
+      "description": "A charming pink netted ruffled gown designed for toddlers aged 2–6 years, perfect for parties and celebrations.",
+      "image": "https://images.pexels.com/photos/29638241/pexels-photo-29638241.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/29638241/pexels-photo-29638241.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/29638241/pexels-photo-29638241.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/29638241/pexels-photo-29638241.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "pink netted ruffled gown toddler party_wear netted polyester party wear gown pink netted ruffled a charming pink netted ruffled gown designed for toddlers aged 2–6 years, perfect for parties and celebrations. kids child 2t 3t 4t 5t dress formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 97,
+      "title": "Lavender Pinocchio Embroidery Netted Frock",
+      "price": 2099,
+      "originalPrice": 2699,
+      "discount": 22,
+      "rating": 4.7,
+      "reviewCount": 19,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "party_wear",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Netted Polyester with Embroidery",
+      "stock": 13,
+      "tags": [
+        "party wear",
+        "frock",
+        "lavender",
+        "netted",
+        "embroidery",
+        "toddler"
+      ],
+      "description": "A beautiful lavender frock with Pinocchio-style embroidery and netted layers, perfect for toddlers aged 2–6 years for party occasions.",
+      "image": "https://images.pexels.com/photos/14376923/pexels-photo-14376923.png",
+      "images": [
+        "https://images.pexels.com/photos/14376923/pexels-photo-14376923.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/14376923/pexels-photo-14376923.png?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/14376923/pexels-photo-14376923.png?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "lavender pinocchio embroidery netted frock toddler party_wear netted polyester with embroidery party wear frock lavender netted embroidery a beautiful lavender frock with pinocchio-style embroidery and netted layers, perfect for toddlers aged 2–6 years for party occasions. kids child 2t 3t 4t 5t dress formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 98,
+      "title": "Striped Black & Gray Shiny Frock",
+      "price": 1799,
+      "originalPrice": 2299,
+      "discount": 22,
+      "rating": 4.5,
+      "reviewCount": 14,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "party_wear",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Polyester Blend with Shiny Stripes",
+      "stock": 16,
+      "tags": [
+        "party wear",
+        "frock",
+        "striped",
+        "black",
+        "gray",
+        "toddler"
+      ],
+      "description": "A stylish striped black and gray shiny frock perfect for toddlers aged 2–6 years for party occasions.",
+      "image": "https://images.pexels.com/photos/9358556/pexels-photo-9358556.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/9358556/pexels-photo-9358556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/9358556/pexels-photo-9358556.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/9358556/pexels-photo-9358556.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "striped black & gray shiny frock toddler party_wear polyester blend with shiny stripes party wear frock striped black gray a stylish striped black and gray shiny frock perfect for toddlers aged 2–6 years for party occasions. kids child 2t 3t 4t 5t dress formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 99,
+      "title": "White & Cherry Red Top and Skirt",
+      "price": 1899,
+      "originalPrice": 2499,
+      "discount": 24,
+      "rating": 4.6,
+      "reviewCount": 18,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "party_wear",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Cotton Blend",
+      "stock": 14,
+      "tags": [
+        "party wear",
+        "top and skirt",
+        "white",
+        "cherry red",
+        "toddler"
+      ],
+      "description": "A cute white and cherry red top paired with a skirt, perfect for toddler party wear (2–6 years).",
+      "image": "https://images.pexels.com/photos/14760732/pexels-photo-14760732.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/14760732/pexels-photo-14760732.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/14760732/pexels-photo-14760732.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/14760732/pexels-photo-14760732.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "white & cherry red top and skirt toddler party_wear cotton blend party wear top and skirt white cherry red a cute white and cherry red top paired with a skirt, perfect for toddler party wear (2–6 years). kids child 2t 3t 4t 5t dress shirt formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 100,
+      "title": "Black Netted Knee-Length Frock",
+      "price": 1799,
+      "originalPrice": 2299,
+      "discount": 22,
+      "rating": 4.5,
+      "reviewCount": 16,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "party_wear",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Netted with Lining",
+      "stock": 12,
+      "tags": [
+        "party wear",
+        "frock",
+        "black",
+        "netted",
+        "toddler"
+      ],
+      "description": "A stylish black netted knee-length frock perfect for toddler party occasions (2–6 years).",
+      "image": "https://images.pexels.com/photos/18923045/pexels-photo-18923045.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/18923045/pexels-photo-18923045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/18923045/pexels-photo-18923045.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/18923045/pexels-photo-18923045.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "black netted knee-length frock toddler party_wear netted with lining party wear frock black netted a stylish black netted knee-length frock perfect for toddler party occasions (2–6 years). kids child 2t 3t 4t 5t dress formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 101,
+      "title": "Full White Angel Gown",
+      "price": 2199,
+      "originalPrice": 2699,
+      "discount": 19,
+      "rating": 4.7,
+      "reviewCount": 22,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "party_wear",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Soft Tulle & Satin",
+      "stock": 14,
+      "tags": [
+        "party wear",
+        "gown",
+        "white",
+        "angel",
+        "toddler"
+      ],
+      "description": "A dreamy full white angel gown perfect for toddler party occasions (2–6 years).",
+      "image": "https://images.pexels.com/photos/10767679/pexels-photo-10767679.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/10767679/pexels-photo-10767679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/10767679/pexels-photo-10767679.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/10767679/pexels-photo-10767679.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "full white angel gown toddler party_wear soft tulle & satin party wear gown white angel a dreamy full white angel gown perfect for toddler party occasions (2–6 years). kids child 2t 3t 4t 5t dress formal fancy wedding celebration birthday elegant"
+    },
+    {
+      "id": 102,
+      "title": "Sky Blue Netted Gown with Overcoat",
+      "price": 2399,
+      "originalPrice": 2899,
+      "discount": 17,
+      "rating": 4.6,
+      "reviewCount": 18,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "party_wear",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Netted overlay with soft lining",
+      "stock": 12,
+      "tags": [
+        "party wear",
+        "gown",
+        "sky blue",
+        "netted",
+        "overcoat",
+        "toddler"
+      ],
+      "description": "A pretty sky blue netted gown with an elegant overcoat, perfect for toddler party occasions (2–6 years).",
+      "image": "https://images.pexels.com/photos/33854726/pexels-photo-33854726.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/33854726/pexels-photo-33854726.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/33854726/pexels-photo-33854726.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/33854726/pexels-photo-33854726.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "sky blue netted gown with overcoat toddler party_wear netted overlay with soft lining party wear gown sky blue netted overcoat a pretty sky blue netted gown with an elegant overcoat, perfect for toddler party occasions (2–6 years). kids child 2t 3t 4t 5t dress formal fancy wedding celebration birthday elegant party"
+    },
+    {
+      "id": 104,
+      "title": "Sky Blue Floral Printed Frock with Puff Sleeves",
+      "price": 1399,
+      "originalPrice": 1799,
+      "discount": 22,
+      "rating": 4.6,
+      "reviewCount": 19,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "summer",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Light Cotton Blend",
+      "stock": 18,
+      "tags": [
+        "summer wear",
+        "floral frock",
+        "sky blue",
+        "puff sleeves",
+        "breathable",
+        "toddler"
+      ],
+      "description": "A pretty sky blue floral printed frock with puff sleeves — ideal for toddler summer days (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/27908185/pexels-photo-27908185.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/27908185/pexels-photo-27908185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/27908185/pexels-photo-27908185.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/27908185/pexels-photo-27908185.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "sky blue floral printed frock with puff sleeves toddler summer light cotton blend summer wear floral frock sky blue puff sleeves breathable a pretty sky blue floral printed frock with puff sleeves — ideal for toddler summer days (ages 2–6 years). kids child 2t 3t 4t 5t dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 105,
+      "title": "Pale Rose Sleeveless Knee-Length Top",
+      "price": 899,
+      "originalPrice": 1199,
+      "discount": 25,
+      "rating": 4.5,
+      "reviewCount": 17,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "summer",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Light Cotton Blend",
+      "stock": 22,
+      "tags": [
+        "summer wear",
+        "sleeveless top",
+        "pale rose",
+        "knee length",
+        "toddler"
+      ],
+      "description": "A pale rose sleeveless top with a knee-length silhouette — breathable and comfortable for toddler summer days (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/35753793/pexels-photo-35753793.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/35753793/pexels-photo-35753793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/35753793/pexels-photo-35753793.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/35753793/pexels-photo-35753793.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "pale rose sleeveless knee-length top toddler summer light cotton blend summer wear sleeveless top pale rose knee length a pale rose sleeveless top with a knee-length silhouette — breathable and comfortable for toddler summer days (ages 2–6 years). kids child 2t 3t 4t 5t shirt hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 106,
+      "title": "Pink Checked Frock with Puff Sleeves",
+      "price": 1399,
+      "originalPrice": 1799,
+      "discount": 22,
+      "rating": 4.6,
+      "reviewCount": 20,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "summer",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Light Cotton Blend",
+      "stock": 19,
+      "tags": [
+        "summer wear",
+        "checked frock",
+        "pink",
+        "puff sleeves",
+        "breathable",
+        "toddler"
+      ],
+      "description": "A lovely pink checked frock with puff sleeves — breathable and comfortable for toddler summer days (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/32182113/pexels-photo-32182113.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/32182113/pexels-photo-32182113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/32182113/pexels-photo-32182113.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/32182113/pexels-photo-32182113.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "pink checked frock with puff sleeves toddler summer light cotton blend summer wear checked frock pink puff sleeves breathable a lovely pink checked frock with puff sleeves — breathable and comfortable for toddler summer days (ages 2–6 years). kids child 2t 3t 4t 5t dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 107,
+      "title": "Green Leafy Printed Western Gown",
+      "price": 1499,
+      "originalPrice": 1899,
+      "discount": 21,
+      "rating": 4.6,
+      "reviewCount": 15,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "summer",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Light Cotton Blend",
+      "stock": 18,
+      "tags": [
+        "summer wear",
+        "western gown",
+        "green leafy print",
+        "breathable",
+        "toddler"
+      ],
+      "description": "A breezy green leafy printed western gown — comfortable and stylish for toddler summer days (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/33019602/pexels-photo-33019602.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/33019602/pexels-photo-33019602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/33019602/pexels-photo-33019602.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/33019602/pexels-photo-33019602.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "green leafy printed western gown toddler summer light cotton blend summer wear western gown green leafy print breathable a breezy green leafy printed western gown — comfortable and stylish for toddler summer days (ages 2–6 years). kids child 2t 3t 4t 5t dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 108,
+      "title": "Magic Mint & Bright Yellow Floral Frock",
+      "price": 1499,
+      "originalPrice": 1899,
+      "discount": 21,
+      "rating": 4.7,
+      "reviewCount": 16,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "summer",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Light Cotton Blend",
+      "stock": 17,
+      "tags": [
+        "summer wear",
+        "floral frock",
+        "mint",
+        "yellow",
+        "breathable",
+        "toddler"
+      ],
+      "description": "A refreshing magic mint and bright yellow floral frock — ideal for toddler summer days (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/33603732/pexels-photo-33603732.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/33603732/pexels-photo-33603732.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/33603732/pexels-photo-33603732.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/33603732/pexels-photo-33603732.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "magic mint & bright yellow floral frock toddler summer light cotton blend summer wear floral frock mint yellow breathable a refreshing magic mint and bright yellow floral frock — ideal for toddler summer days (ages 2–6 years). kids child 2t 3t 4t 5t dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 109,
+      "title": "White Long Top with Red Stripes",
+      "price": 999,
+      "originalPrice": 1299,
+      "discount": 23,
+      "rating": 4.5,
+      "reviewCount": 13,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "summer",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Light Cotton Blend",
+      "stock": 21,
+      "tags": [
+        "summer wear",
+        "striped top",
+        "white",
+        "red",
+        "toddler"
+      ],
+      "description": "A comfortable white long top with red stripes — perfect for toddler summer days (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/13059835/pexels-photo-13059835.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/13059835/pexels-photo-13059835.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/13059835/pexels-photo-13059835.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/13059835/pexels-photo-13059835.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "white long top with red stripes toddler summer light cotton blend summer wear striped top white red a comfortable white long top with red stripes — perfect for toddler summer days (ages 2–6 years). kids child 2t 3t 4t 5t shirt hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 111,
+      "title": "Bright Yellow Frock",
+      "price": 1199,
+      "originalPrice": 1499,
+      "discount": 20,
+      "rating": 4.5,
+      "reviewCount": 14,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "summer",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Cotton",
+      "stock": 24,
+      "tags": [
+        "summer wear",
+        "frock",
+        "yellow",
+        "breathable",
+        "toddler"
+      ],
+      "description": "A bright and cheerful yellow frock made from soft cotton — perfect for toddler summer days (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/17361110/pexels-photo-17361110.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/17361110/pexels-photo-17361110.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/17361110/pexels-photo-17361110.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/17361110/pexels-photo-17361110.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "bright yellow frock toddler summer cotton summer wear frock yellow breathable a bright and cheerful yellow frock made from soft cotton — perfect for toddler summer days (ages 2–6 years). kids child 2t 3t 4t 5t dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 112,
+      "title": "Pale Peach Floral Frock",
+      "price": 1299,
+      "originalPrice": 1599,
+      "discount": 19,
+      "rating": 4.6,
+      "reviewCount": 15,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "summer",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Light Cotton Blend",
+      "stock": 20,
+      "tags": [
+        "summer wear",
+        "floral frock",
+        "pale peach",
+        "breathable",
+        "toddler"
+      ],
+      "description": "A soft pale peach floral frock — lightweight and comfortable for toddler summer days (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/15838025/pexels-photo-15838025.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/15838025/pexels-photo-15838025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/15838025/pexels-photo-15838025.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/15838025/pexels-photo-15838025.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "pale peach floral frock toddler summer light cotton blend summer wear floral frock pale peach breathable a soft pale peach floral frock — lightweight and comfortable for toddler summer days (ages 2–6 years). kids child 2t 3t 4t 5t dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 113,
+      "title": "White Frock",
+      "price": 1199,
+      "originalPrice": 1499,
+      "discount": 20,
+      "rating": 4.5,
+      "reviewCount": 12,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "summer",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Light Cotton",
+      "stock": 25,
+      "tags": [
+        "summer wear",
+        "white frock",
+        "breathable",
+        "toddler"
+      ],
+      "description": "A simple and breezy white cotton frock — ideal for toddler summer days (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/5546380/pexels-photo-5546380.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/5546380/pexels-photo-5546380.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/5546380/pexels-photo-5546380.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/5546380/pexels-photo-5546380.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "white frock toddler summer light cotton summer wear breathable a simple and breezy white cotton frock — ideal for toddler summer days (ages 2–6 years). kids child 2t 3t 4t 5t dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 114,
+      "title": "Grayish Peach Full-Sleeve Frock",
+      "price": 1399,
+      "originalPrice": 1699,
+      "discount": 18,
+      "rating": 4.5,
+      "reviewCount": 14,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "summer",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Soft Cotton Blend",
+      "stock": 20,
+      "tags": [
+        "summer wear",
+        "full-sleeve frock",
+        "grayish peach",
+        "breathable",
+        "toddler"
+      ],
+      "description": "A soft grayish peach full-sleeve frock — comfortable and stylish for toddler summer days (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/4971772/pexels-photo-4971772.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/4971772/pexels-photo-4971772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/4971772/pexels-photo-4971772.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/4971772/pexels-photo-4971772.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "grayish peach full-sleeve frock toddler summer soft cotton blend summer wear full-sleeve frock grayish peach breathable a soft grayish peach full-sleeve frock — comfortable and stylish for toddler summer days (ages 2–6 years). kids child 2t 3t 4t 5t dress hot beach lightweight sleeveless shorts swim swimsuit"
+    },
+    {
+      "id": 115,
+      "title": "Pale Pink Fur Sweater",
+      "price": 1699,
+      "originalPrice": 2099,
+      "discount": 19,
+      "rating": 4.6,
+      "reviewCount": 18,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "winter",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Faux Fur Knit",
+      "stock": 16,
+      "tags": [
+        "winter wear",
+        "fur sweater",
+        "pale pink",
+        "cozy",
+        "toddler"
+      ],
+      "description": "A cozy pale pink fur sweater — perfect for keeping toddlers warm and stylish in winter (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/12753175/pexels-photo-12753175.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/12753175/pexels-photo-12753175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/12753175/pexels-photo-12753175.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/12753175/pexels-photo-12753175.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "pale pink fur sweater toddler winter faux fur knit winter wear fur sweater pale pink cozy a cozy pale pink fur sweater — perfect for keeping toddlers warm and stylish in winter (ages 2–6 years). pullover cardigan jumper fleece knit warm top hoodie sweatshirt sweater cold snow warm heavy jacket coat thermal kids child 2t 3t 4t 5t"
+    },
+    {
+      "id": 116,
+      "title": "Lavender Pinocchio Sweater",
+      "price": 1799,
+      "originalPrice": 2199,
+      "discount": 18,
+      "rating": 4.7,
+      "reviewCount": 21,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "kids",
+      "subcategory": "winter",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Knitted Wool Blend",
+      "stock": 15,
+      "tags": [
+        "winter wear",
+        "sweater",
+        "lavender",
+        "Pinocchio design",
+        "cozy",
+        "toddler"
+      ],
+      "description": "A cozy lavender Pinocchio sweater — warm and adorable for toddler winter days (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/7788326/pexels-photo-7788326.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/7788326/pexels-photo-7788326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/7788326/pexels-photo-7788326.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/7788326/pexels-photo-7788326.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "lavender pinocchio sweater kids winter knitted wool blend winter wear sweater lavender pinocchio design cozy toddler a cozy lavender pinocchio sweater — warm and adorable for toddler winter days (ages 2–6 years). pullover cardigan jumper fleece knit warm top hoodie sweatshirt cold snow warm heavy jacket coat thermal child 2t 3t 4t 5t"
+    },
+    {
+      "id": 117,
+      "title": "Platinum-Green Long Sweater & Pant Set",
+      "price": 2099,
+      "originalPrice": 2599,
+      "discount": 19,
+      "rating": 4.7,
+      "reviewCount": 19,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "winter",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Knitted Wool Blend",
+      "stock": 14,
+      "tags": [
+        "winter wear",
+        "sweater set",
+        "platinum green",
+        "cozy",
+        "toddler"
+      ],
+      "description": "A warm platinum-green long sweater paired with matching pants — perfect for toddler winter days (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/10613469/pexels-photo-10613469.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/10613469/pexels-photo-10613469.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/10613469/pexels-photo-10613469.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/10613469/pexels-photo-10613469.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "platinum-green long sweater & pant set toddler winter knitted wool blend winter wear sweater set platinum green cozy a warm platinum-green long sweater paired with matching pants — perfect for toddler winter days (ages 2–6 years). pullover cardigan jumper fleece knit warm top hoodie sweatshirt cold snow warm heavy jacket coat sweater thermal kids child 2t 3t 4t 5t trousers jeans bottoms leggings joggers sweatpants"
+    },
+    {
+      "id": 118,
+      "title": "Watermelon Red Full-Coverage Winter Dress",
+      "price": 2199,
+      "originalPrice": 2699,
+      "discount": 18,
+      "rating": 4.7,
+      "reviewCount": 17,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "winter",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Thick Knit/Fleece",
+      "stock": 13,
+      "tags": [
+        "winter wear",
+        "full-coverage dress",
+        "watermelon red",
+        "cozy",
+        "toddler"
+      ],
+      "description": "A warm watermelon-red full-coverage winter dress — ideal for keeping toddlers cozy in cold weather (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/6138033/pexels-photo-6138033.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/6138033/pexels-photo-6138033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/6138033/pexels-photo-6138033.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/6138033/pexels-photo-6138033.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "watermelon red full-coverage winter dress toddler winter thick knit/fleece winter wear full-coverage dress watermelon red cozy a warm watermelon-red full-coverage winter dress — ideal for keeping toddlers cozy in cold weather (ages 2–6 years). sweater cold snow warm fleece heavy jacket coat cardigan hoodie thermal kids child 2t 3t 4t 5t frock gown skirt"
+    },
+    {
+      "id": 119,
+      "title": "Soft Pink Fur Long Sweater",
+      "price": 1899,
+      "originalPrice": 2299,
+      "discount": 17,
+      "rating": 4.6,
+      "reviewCount": 20,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "winter",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Faux Fur Knit",
+      "stock": 12,
+      "tags": [
+        "winter wear",
+        "long sweater",
+        "soft pink",
+        "cozy",
+        "toddler"
+      ],
+      "description": "A soft pink fur long sweater — warm, cozy, and ideal for toddler winter days (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/29224161/pexels-photo-29224161.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/29224161/pexels-photo-29224161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/29224161/pexels-photo-29224161.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/29224161/pexels-photo-29224161.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "soft pink fur long sweater toddler winter faux fur knit winter wear long sweater soft pink cozy a soft pink fur long sweater — warm, cozy, and ideal for toddler winter days (ages 2–6 years). pullover cardigan jumper fleece knit warm top hoodie sweatshirt sweater cold snow warm heavy jacket coat thermal kids child 2t 3t 4t 5t"
+    },
+    {
+      "id": 120,
+      "title": "Sweet Pink Full-Set Sweater",
+      "price": 1999,
+      "originalPrice": 2399,
+      "discount": 17,
+      "rating": 4.6,
+      "reviewCount": 18,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "kids",
+      "subcategory": "winter",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Faux Fur Knit",
+      "stock": 15,
+      "tags": [
+        "winter wear",
+        "sweater set",
+        "sweet pink",
+        "cozy",
+        "toddler"
+      ],
+      "description": "A sweet pink full-set sweater — warm and comfortable for toddler winter days (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/34425916/pexels-photo-34425916.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/34425916/pexels-photo-34425916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/34425916/pexels-photo-34425916.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/34425916/pexels-photo-34425916.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "sweet pink full-set sweater kids winter faux fur knit winter wear sweater set sweet pink cozy toddler a sweet pink full-set sweater — warm and comfortable for toddler winter days (ages 2–6 years). pullover cardigan jumper fleece knit warm top hoodie sweatshirt sweater cold snow warm heavy jacket coat thermal child 2t 3t 4t 5t"
+    },
+    {
+      "id": 121,
+      "title": "Pink Zip-Up Jacket & Blue Denim Skirt",
+      "price": 2199,
+      "originalPrice": 2699,
+      "discount": 18,
+      "rating": 4.6,
+      "reviewCount": 16,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "kids",
+      "subcategory": "winter",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Fleece Jacket & Denim Skirt",
+      "stock": 14,
+      "tags": [
+        "winter wear",
+        "jacket",
+        "denim skirt",
+        "pink",
+        "toddler"
+      ],
+      "description": "A cozy pink zip-up jacket paired with a blue denim skirt — stylish winter layering for toddlers (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/8945423/pexels-photo-8945423.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/8945423/pexels-photo-8945423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/8945423/pexels-photo-8945423.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/8945423/pexels-photo-8945423.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "pink zip-up jacket & blue denim skirt kids winter fleece jacket & denim skirt winter wear jacket denim skirt pink toddler a cozy pink zip-up jacket paired with a blue denim skirt — stylish winter layering for toddlers (ages 2–6 years). sweater cold snow warm fleece heavy coat cardigan hoodie thermal child 2t 3t 4t 5t dress"
+    },
+    {
+      "id": 122,
+      "title": "Dark Blue Sweater",
+      "price": 1599,
+      "originalPrice": 1999,
+      "discount": 20,
+      "rating": 4.5,
+      "reviewCount": 14,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "winter",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Knitted Wool Blend",
+      "stock": 18,
+      "tags": [
+        "winter wear",
+        "sweater",
+        "dark blue",
+        "cozy",
+        "toddler"
+      ],
+      "description": "A warm dark blue knitted sweater — ideal for keeping toddlers cozy during winter (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/11618067/pexels-photo-11618067.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/11618067/pexels-photo-11618067.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/11618067/pexels-photo-11618067.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/11618067/pexels-photo-11618067.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "dark blue sweater toddler winter knitted wool blend winter wear sweater dark blue cozy a warm dark blue knitted sweater — ideal for keeping toddlers cozy during winter (ages 2–6 years). pullover cardigan jumper fleece knit warm top hoodie sweatshirt cold snow warm heavy jacket coat thermal kids child 2t 3t 4t 5t"
+    },
+    {
+      "id": 123,
+      "title": "Wax Flower Peach Sweater with Floral Scarf",
+      "price": 2299,
+      "originalPrice": 2799,
+      "discount": 17,
+      "rating": 4.8,
+      "reviewCount": 22,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "winter",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Knitted Wool Blend with Scarf",
+      "stock": 11,
+      "tags": [
+        "winter wear",
+        "sweater",
+        "peach",
+        "floral scarf",
+        "cozy",
+        "toddler"
+      ],
+      "description": "A wax-flower peach knitted sweater paired with a floral scarf — stylish and warm for toddler winter days (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/5729416/pexels-photo-5729416.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/5729416/pexels-photo-5729416.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/5729416/pexels-photo-5729416.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/5729416/pexels-photo-5729416.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "wax flower peach sweater with floral scarf toddler winter knitted wool blend with scarf winter wear sweater peach floral scarf cozy a wax-flower peach knitted sweater paired with a floral scarf — stylish and warm for toddler winter days (ages 2–6 years). pullover cardigan jumper fleece knit warm top hoodie sweatshirt cold snow warm heavy jacket coat thermal kids child 2t 3t 4t 5t"
+    },
+    {
+      "id": 124,
+      "title": "Blue Theme Two-Piece Winter Set",
+      "price": 2399,
+      "originalPrice": 2899,
+      "discount": 17,
+      "rating": 4.7,
+      "reviewCount": 18,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "winter",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Knitted Wool Blend",
+      "stock": 13,
+      "tags": [
+        "winter wear",
+        "two-piece set",
+        "blue theme",
+        "cozy",
+        "toddler"
+      ],
+      "description": "A blue-themed two-piece winter set — warm and stylish for toddlers (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/5715014/pexels-photo-5715014.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/5715014/pexels-photo-5715014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/5715014/pexels-photo-5715014.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/5715014/pexels-photo-5715014.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "blue theme two-piece winter set toddler winter knitted wool blend winter wear two-piece set blue theme cozy a blue-themed two-piece winter set — warm and stylish for toddlers (ages 2–6 years). cold snow warm fleece heavy jacket coat sweater cardigan hoodie thermal kids child 2t 3t 4t 5t"
+    },
+    {
+      "id": 125,
+      "title": "Pink & Blue Winter Suit",
+      "price": 2499,
+      "originalPrice": 2999,
+      "discount": 17,
+      "rating": 4.7,
+      "reviewCount": 21,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "winter",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Insulated Knit Blend",
+      "stock": 10,
+      "tags": [
+        "winter wear",
+        "winter suit",
+        "pink and blue",
+        "cozy",
+        "toddler"
+      ],
+      "description": "A pink and blue insulated winter suit — warm and stylish for toddlers (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/9974537/pexels-photo-9974537.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/9974537/pexels-photo-9974537.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/9974537/pexels-photo-9974537.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/9974537/pexels-photo-9974537.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "pink & blue winter suit toddler winter insulated knit blend winter wear winter suit pink and blue cozy a pink and blue insulated winter suit — warm and stylish for toddlers (ages 2–6 years). sweater cold snow warm fleece heavy jacket coat cardigan hoodie thermal kids child 2t 3t 4t 5t"
+    },
+    {
+      "id": 126,
+      "title": "Flame Red & Brown Winter Full Set",
+      "price": 2599,
+      "originalPrice": 3099,
+      "discount": 16,
+      "rating": 4.7,
+      "reviewCount": 19,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "toddler",
+      "subcategory": "winter",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "fabric": "Insulated Knit Blend",
+      "stock": 12,
+      "tags": [
+        "winter wear",
+        "full set",
+        "flame red",
+        "brown",
+        "toddler"
+      ],
+      "description": "A flame-red and brown insulated winter full set — warm, stylish, and cozy for toddlers (ages 2–6 years).",
+      "image": "https://images.pexels.com/photos/34145335/pexels-photo-34145335.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/34145335/pexels-photo-34145335.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/34145335/pexels-photo-34145335.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/34145335/pexels-photo-34145335.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "flame red & brown winter full set toddler winter insulated knit blend winter wear full set flame red brown a flame-red and brown insulated winter full set — warm, stylish, and cozy for toddlers (ages 2–6 years). sweater cold snow warm fleece heavy jacket coat cardigan hoodie thermal kids child 2t 3t 4t 5t"
+    },
+    {
+      "id": 127,
+      "title": "White Gown with Pink Overcoat for Girls",
+      "price": 2199,
+      "originalPrice": 2799,
+      "discount": 21,
+      "rating": 4.5,
+      "reviewCount": 34,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "girls",
+      "subcategory": "party wear",
+      "sizes": [
+        "6Y",
+        "7Y",
+        "8Y",
+        "9Y",
+        "10Y",
+        "11Y",
+        "12Y",
+        "13Y",
+        "14Y"
+      ],
+      "fabric": "Soft Polyester Blend",
+      "stock": 18,
+      "tags": [
+        "party wear",
+        "gown",
+        "white",
+        "pink overcoat",
+        "girls fashion"
+      ],
+      "description": "A beautiful white gown paired with a stylish pink overcoat — perfect party wear for girls, comfortable and elegant for special occasions.",
+      "image": "https://images.pexels.com/photos/31514252/pexels-photo-31514252.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/31514252/pexels-photo-31514252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/31514252/pexels-photo-31514252.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/31514252/pexels-photo-31514252.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "white gown with pink overcoat for girls girls party wear soft polyester blend gown white pink overcoat girls fashion a beautiful white gown paired with a stylish pink overcoat — perfect party wear for girls, comfortable and elegant for special occasions. dress formal fancy wedding celebration birthday elegant party"
+    },
+    {
+      "id": 128,
+      "title": "White Angel Netted Gown for Girls",
+      "price": 2499,
+      "originalPrice": 3299,
+      "discount": 24,
+      "rating": 4.6,
+      "reviewCount": 52,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "girls",
+      "subcategory": "party wear",
+      "sizes": [
+        "6Y",
+        "7Y",
+        "8Y",
+        "9Y",
+        "10Y",
+        "11Y",
+        "12Y",
+        "13Y",
+        "14Y"
+      ],
+      "fabric": "Soft Net & Tulle",
+      "stock": 22,
+      "tags": [
+        "party wear",
+        "angel gown",
+        "white net",
+        "girls fashion",
+        "special occasion"
+      ],
+      "description": "Elegant white angel-style netted gown for girls — perfect for parties, weddings, birthdays, and special occasions. Soft net fabric with beautiful flow makes your little one look like a princess.",
+      "image": "https://images.pexels.com/photos/5906108/pexels-photo-5906108.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/5906108/pexels-photo-5906108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/5906108/pexels-photo-5906108.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/5906108/pexels-photo-5906108.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "white angel netted gown for girls girls party wear soft net & tulle angel gown white net girls fashion special occasion elegant white angel-style netted gown for girls — perfect for parties, weddings, birthdays, and special occasions. soft net fabric with beautiful flow makes your little one look like a princess. dress formal fancy wedding celebration birthday elegant party"
+    },
+    {
+      "id": 129,
+      "title": "Cavern Pink Netted Gown for Girls",
+      "price": 2699,
+      "originalPrice": 3499,
+      "discount": 23,
+      "rating": 4.6,
+      "reviewCount": 47,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "girls",
+      "subcategory": "party wear",
+      "sizes": [
+        "6Y",
+        "7Y",
+        "8Y",
+        "9Y",
+        "10Y",
+        "11Y",
+        "12Y",
+        "13Y",
+        "14Y"
+      ],
+      "fabric": "Netted Tulle with Satin Lining",
+      "stock": 20,
+      "tags": [
+        "party wear",
+        "pink gown",
+        "netted dress",
+        "girls fashion",
+        "special occasion"
+      ],
+      "description": "A charming cavern pink netted gown for girls — perfect for parties, celebrations, and special events. Soft net fabric with satin lining creates a lovely flow and elegant look.",
+      "image": "https://images.pexels.com/photos/33847734/pexels-photo-33847734.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/33847734/pexels-photo-33847734.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/33847734/pexels-photo-33847734.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/33847734/pexels-photo-33847734.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "cavern pink netted gown for girls girls party wear netted tulle with satin lining pink gown netted dress girls fashion special occasion a charming cavern pink netted gown for girls — perfect for parties, celebrations, and special events. soft net fabric with satin lining creates a lovely flow and elegant look. frock gown skirt dress formal fancy wedding celebration birthday elegant party"
+    },
+    {
+      "id": 130,
+      "title": "Vanilla Brown Long Gown for Girls",
+      "price": 2599,
+      "originalPrice": 3399,
+      "discount": 23,
+      "rating": 4.5,
+      "reviewCount": 40,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "girls",
+      "subcategory": "party wear",
+      "sizes": [
+        "6Y",
+        "7Y",
+        "8Y",
+        "9Y",
+        "10Y",
+        "11Y",
+        "12Y",
+        "13Y",
+        "14Y"
+      ],
+      "fabric": "Netted Tulle with Satin Lining",
+      "stock": 24,
+      "tags": [
+        "party wear",
+        "brown gown",
+        "vanilla brown",
+        "girls fashion",
+        "special occasion"
+      ],
+      "description": "A charming vanilla brown long netted gown for girls — ideal for parties, weddings, and special events. Elegant and comfortable with a flowing silhouette that makes every moment memorable.",
+      "image": "https://images.pexels.com/photos/27971385/pexels-photo-27971385.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/27971385/pexels-photo-27971385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/27971385/pexels-photo-27971385.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/27971385/pexels-photo-27971385.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "vanilla brown long gown for girls girls party wear netted tulle with satin lining brown gown vanilla brown girls fashion special occasion a charming vanilla brown long netted gown for girls — ideal for parties, weddings, and special events. elegant and comfortable with a flowing silhouette that makes every moment memorable. dress formal fancy wedding celebration birthday elegant party"
+    },
+    {
+      "id": 131,
+      "title": "Sky Blue Gown for Girls",
+      "price": 2499,
+      "originalPrice": 3199,
+      "discount": 22,
+      "rating": 4.5,
+      "reviewCount": 38,
+      "isNew": true,
+      "isBestSeller": false,
+      "category": "girls",
+      "subcategory": "party wear",
+      "sizes": [
+        "6Y",
+        "7Y",
+        "8Y",
+        "9Y",
+        "10Y",
+        "11Y",
+        "12Y",
+        "13Y",
+        "14Y"
+      ],
+      "fabric": "Soft Net with Satin Underskirt",
+      "stock": 26,
+      "tags": [
+        "party wear",
+        "sky blue gown",
+        "girls fashion",
+        "special occasion"
+      ],
+      "description": "Elegant sky blue gown for girls — perfect for parties, celebrations, and special events. Soft net fabric with satin underskirt for a graceful and comfortable fit.",
+      "image": "https://images.pexels.com/photos/23339100/pexels-photo-23339100.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/23339100/pexels-photo-23339100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "https://images.pexels.com/photos/23339100/pexels-photo-23339100.jpeg?auto=compress&cs=tinysrgb&h=800&w=1200",
+        "https://images.pexels.com/photos/23339100/pexels-photo-23339100.jpeg?auto=compress&cs=tinysrgb&h=1080&w=1620"
+      ],
+      "search_text": "sky blue gown for girls girls party wear soft net with satin underskirt sky blue gown girls fashion special occasion elegant sky blue gown for girls — perfect for parties, celebrations, and special events. soft net fabric with satin underskirt for a graceful and comfortable fit. dress formal fancy wedding celebration birthday elegant party"
+    }
+  ]
+}

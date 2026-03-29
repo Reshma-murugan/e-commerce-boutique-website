@@ -1,0 +1,7 @@
+http://127.0.0.1:3000/products?title=Infant => 0 items
+http://127.0.0.1:3000/products?title=*Infant* => 0 items
+http://127.0.0.1:3000/products?q=Infant => 0 items
+http://127.0.0.1:3000/products?_q=Infant => 0 items
+http://127.0.0.1:3000/products?title_like=Infant => 0 items
+http://127.0.0.1:3000/products?title_contains=Infant => 28 items
+http://127.0.0.1:3000/products?title=Infant* => 0 items
