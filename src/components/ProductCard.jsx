@@ -50,7 +50,7 @@ const ProductCard = ({ product }) => {
           className={`wishlist-btn ${wished ? 'active' : ''}`}
           aria-label={wished ? 'Remove from wishlist' : 'Add to wishlist'}
         >
-          <Heart size={16} strokeWidth={2} fill={wished ? 'currentColor' : 'none'} />
+          <Heart size={16} strokeWidth={2} fill={wished ? 'currentColor' : '#fff'} />
         </button>
 
         <div className="product-overlay">

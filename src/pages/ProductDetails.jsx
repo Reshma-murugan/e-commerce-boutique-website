@@ -1,6 +1,6 @@
 import { useParams, useNavigate } from 'react-router-dom';
 import { useContext, useState, useMemo, useEffect } from 'react';
-import { ArrowLeft, ShoppingCart, Heart, Star, Truck, RotateCcw, ShieldCheck } from 'lucide-react';
+import { ArrowLeft, ShoppingCart, Heart, Star, Truck, RotateCcw, ShieldCheck, CreditCard } from 'lucide-react';
 import { CartContext } from '../context/CartContext.jsx';
 import { WishlistContext } from '../context/WishlistContext.jsx';
 import { ToastContext } from '../context/ToastContext.jsx';
@@ -99,6 +99,16 @@ const ProductDetails = () => {
     addToast(`"${product.title}" added to cart!`, 'success');
   };
 
+  const handleBuyNow = () => {
+    if (product.sizes?.length > 0 && !selectedSize) {
+      setSizeError(true);
+      return;
+    }
+    // Add to cart and immediately go to checkout
+    addToCart({ ...product, selectedSize });
+    navigate('/checkout');
+  };
+
   const handleSizeSelect = (size) => {
     setSelectedSize(size);
     setSizeError(false);
@@ -160,6 +170,14 @@ const ProductDetails = () => {
                 loading="eager"
                 style={ANGLES[activeImg].style}
               />
+              {/* Wishlist Button */}
+              <button
+                onClick={handleWishlist}
+                className={`gallery-wishlist-btn ${wished ? 'active' : ''}`}
+                aria-label={wished ? 'Remove from wishlist' : 'Add to wishlist'}
+              >
+                <Heart size={20} strokeWidth={2} fill={wished ? 'currentColor' : '#fff'} />
+              </button>
               {/* Prev / Next */}
               <button
                 className="gallery-nav gallery-nav-prev"
@@ -240,16 +258,13 @@ const ProductDetails = () => {
 
             {/* Actions */}
             <div className="detail-actions">
+              <button onClick={handleBuyNow} className="buy-now-btn">
+                <CreditCard size={18} strokeWidth={2} />
+                Buy Now
+              </button>
               <button onClick={handleAddToCart} className="add-to-cart-detail-btn">
                 <ShoppingCart size={18} strokeWidth={2} />
                 Add to Cart
-              </button>
-              <button
-                onClick={handleWishlist}
-                className={`wishlist-detail-btn ${wished ? 'active' : ''}`}
-              >
-                <Heart size={18} strokeWidth={2} fill={wished ? 'currentColor' : 'none'} />
-                {wished ? 'Wishlisted' : 'Wishlist'}
               </button>
             </div>
 

@@ -68,4 +68,20 @@
     font-weight: 600;
     letter-spacing: 0.3px;
   }
+
+  .auth-item {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .bottom-nav-avatar {
+    width: 22px;
+    height: 22px;
+    border-radius: var(--radius-full);
+    object-fit: cover;
+    border: 1.5px solid var(--color-border);
+  }
 }

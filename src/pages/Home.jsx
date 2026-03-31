@@ -19,29 +19,65 @@ const TRUST_BADGES = [
 ];
 
 const SHOP_CATEGORIES = [
-  { key: 'infant',  label: 'Baby',    age: '0 – 24 Months', image: infantImg  },
-  { key: 'toddler', label: 'Toddler', age: '2 – 5 Years',   image: toddlerImg },
   { key: 'girls',   label: 'Girls',   age: '6 – 14 Years',  image: girlsImg   },
+  { key: 'toddler', label: 'Toddler', age: '2 – 5 Years',   image: toddlerImg },
+  { key: 'infant',  label: 'Baby',    age: '0 – 24 Months', image: infantImg  },
 ];
 
 const Home = () => {
-  const [selectedCategory, setSelectedCategory] = useState('all');
+  // selectedCategory removed as no longer toggled by user buttons
+  // const [selectedCategory, setSelectedCategory] = useState('all');
 
   // Paginated feed — fetches 20 at a time from server
-  const { products, loading, hasMore, error, sentinelRef } = useProductFeed({
-    category: selectedCategory === 'all' ? undefined : selectedCategory,
-  });
+  // Paginated feed — always fetches all products now
+  const { products, loading, hasMore, error, sentinelRef } = useProductFeed({});
 
   // Best sellers & new arrivals — single capped requests, no infinite scroll
-  const { products: bestSellers } = useProductFeed({ sort: 'rating', limit: 20 });
-  const { products: newArrivals  } = useProductFeed({ limit: 20 });
+  const { products: bestSellers } = useProductFeed({ sort: 'rating', limit: 80 });
+  const { products: newArrivals  } = useProductFeed({ limit: 80 });
 
-  const topBestSellers = useMemo(() => bestSellers.filter(p => p.isBestSeller).slice(0, 4), [bestSellers]);
-  const topNewArrivals = useMemo(() => newArrivals.filter(p => p.isNew).slice(0, 4), [newArrivals]);
+  // Categorized balancing logic
+  const getBalancedItems = (items, targetCount = 4) => {
+    const categories = ['girls', 'toddler', 'infant'];
+    const result = [];
+    const seen = new Set();
 
+    // 1. Pick 1 from each category first
+    categories.forEach(cat => {
+      const match = items.find(p => p.category?.toLowerCase() === cat && !seen.has(p.id));
+      if (match) {
+        result.push(match);
+        seen.add(match.id);
+      }
+    });
+
+    // 2. Fill remaining slots with the best available items across all categories
+    items.forEach(p => {
+      if (result.length < targetCount && !seen.has(p.id)) {
+        result.push(p);
+        seen.add(p.id);
+      }
+    });
+
+    return result;
+  };
+
+  const topBestSellers = useMemo(() => {
+    const pool = bestSellers.filter(p => p.isBestSeller);
+    return getBalancedItems(pool, 4);
+  }, [bestSellers]);
+
+  const topNewArrivals = useMemo(() => {
+    const pool = newArrivals.filter(p => p.isNew);
+    return getBalancedItems(pool, 4);
+  }, [newArrivals]);
+
+  // handleCategoryChange removed as UI buttons were removed
+  /*
   const handleCategoryChange = (category) => {
     setSelectedCategory(category);
   };
+  */
 
   return (
     <div className="home">
@@ -125,17 +161,7 @@ const Home = () => {
               <p className="home-section-sub">Browse our full collection</p>
             </div>
           </div>
-          <div className="category-filters">
-            {['all', 'infant', 'toddler', 'girls'].map(cat => (
-              <button
-                key={cat}
-                className={`filter-btn ${selectedCategory === cat ? 'active' : ''}`}
-                onClick={() => handleCategoryChange(cat)}
-              >
-                {cat === 'all' ? 'All' : cat.charAt(0).toUpperCase() + cat.slice(1) + 's'}
-              </button>
-            ))}
-          </div>
+          {/* Category filters removed as requested */}
         </div>
 
         {error ? (

@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
-import { useContext } from 'react';
-import { Heart, Star, ShoppingCart } from 'lucide-react';
+import { useContext, useRef } from 'react';
+import { Heart, Star, ShoppingCart, ChevronLeft, ChevronRight } from 'lucide-react';
 import { CartContext } from '../context/CartContext.jsx';
 import { WishlistContext } from '../context/WishlistContext.jsx';
 import { ToastContext } from '../context/ToastContext.jsx';
@@ -11,13 +11,38 @@ const ProductRow = ({ title, products }) => {
   const { addToCart } = useContext(CartContext);
   const { isInWishlist, toggleWishlist } = useContext(WishlistContext);
   const { addToast } = useContext(ToastContext);
+  const scrollRef = useRef(null);
+
+  const scroll = (direction) => {
+    if (scrollRef.current) {
+      const { scrollLeft, clientWidth } = scrollRef.current;
+      const scrollTo = direction === 'left' 
+        ? scrollLeft - clientWidth * 0.8 
+        : scrollLeft + clientWidth * 0.8;
+      
+      scrollRef.current.scrollTo({
+        left: scrollTo,
+        behavior: 'smooth'
+      });
+    }
+  };
 
   if (!products?.length) return null;
 
   return (
     <section className="product-row">
       <h2 className="product-row-title">{title}</h2>
-      <div className="product-row-scroll">
+      <div className="product-row-container">
+        <button 
+          type="button"
+          className="row-nav-btn prev" 
+          onClick={() => scroll('left')}
+          aria-label="Previous products"
+        >
+          <ChevronLeft size={24} style={{ pointerEvents: 'none' }} />
+        </button>
+        
+        <div className="product-row-scroll" ref={scrollRef}>
         {products.map(product => {
           const wished = isInWishlist(product.id);
 
@@ -48,7 +73,7 @@ const ProductRow = ({ title, products }) => {
                   onClick={handleWish}
                   aria-label="Wishlist"
                 >
-                  <Heart size={14} strokeWidth={2} fill={wished ? 'currentColor' : 'none'} />
+                  <Heart size={14} strokeWidth={2} fill={wished ? 'currentColor' : '#fff'} />
                 </button>
               </div>
               <div className="pr-info">
@@ -73,6 +98,16 @@ const ProductRow = ({ title, products }) => {
             </Link>
           );
         })}
+        </div>
+
+        <button 
+          type="button"
+          className="row-nav-btn next" 
+          onClick={() => scroll('right')}
+          aria-label="Next products"
+        >
+          <ChevronRight size={24} style={{ pointerEvents: 'none' }} />
+        </button>
       </div>
     </section>
   );

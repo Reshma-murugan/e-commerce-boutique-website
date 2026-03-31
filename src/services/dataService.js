@@ -11,6 +11,17 @@ const fetchData = async () => {
   const res = await fetch('/data/db.json');
   if (!res.ok) throw new Error('Failed to load static database');
   const data = await res.json();
+
+  // Shuffle products once for a better category mix on the home page
+  if (data.products && Array.isArray(data.products)) {
+    const shuffled = [...data.products];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    data.products = shuffled;
+  }
+
   cachedData = data;
   return data;
 };

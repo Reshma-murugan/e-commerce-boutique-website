@@ -1,10 +1,11 @@
 import logo from '../assets/brandLogo/logo.png';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { useContext, useState, useRef, useEffect } from 'react';
-import { ShoppingBag, Heart, Home, Search, X, LayoutGrid } from 'lucide-react';
+import { ShoppingBag, Heart, Home, Search, X, LayoutGrid, User, LogOut } from 'lucide-react';
 import { CartContext } from '../context/CartContext.jsx';
 import { WishlistContext } from '../context/WishlistContext.jsx';
 import { useSearch } from '../context/SearchContext.jsx';
+import { useAuth } from '../context/AuthContext.jsx';
 import { formatPrice } from '../utils/formatPrice';
 import './Header.css';
 
@@ -12,6 +13,7 @@ const Header = () => {
   const { getCartCount } = useContext(CartContext);
   const { wishlist } = useContext(WishlistContext);
   const { searchTerm, setSearchTerm, searchInput, setSearchInput, suggestions } = useSearch();
+  const { currentUser, loginWithGoogle, logout } = useAuth();
   const navigate = useNavigate();
   const { pathname } = useLocation();
 
@@ -179,6 +181,36 @@ const Header = () => {
               <span className="cart-badge">{getCartCount()}</span>
             )}
           </Link>
+
+          <div className="nav-auth">
+            {currentUser ? (
+              <div className="user-menu-wrapper">
+                <button className="nav-link user-profile-btn" aria-label="User profile">
+                  {currentUser.photoURL ? (
+                    <img src={currentUser.photoURL} alt="" className="user-avatar" />
+                  ) : (
+                    <User size={16} strokeWidth={2} />
+                  )}
+                  <span className="nav-link-label">{currentUser.displayName?.split(' ')[0] || 'Account'}</span>
+                </button>
+                <div className="user-dropdown">
+                  <div className="user-dropdown-header">
+                    <p className="user-name">{currentUser.displayName}</p>
+                    <p className="user-email">{currentUser.email}</p>
+                  </div>
+                  <button onClick={logout} className="dropdown-item logout-btn">
+                    <LogOut size={14} />
+                    <span>Sign Out</span>
+                  </button>
+                </div>
+              </div>
+            ) : (
+              <button onClick={loginWithGoogle} className="nav-link login-btn">
+                <User size={16} strokeWidth={2} />
+                <span className="nav-link-label">Sign In</span>
+              </button>
+            )}
+          </div>
         </nav>
       </div>
     </header>
