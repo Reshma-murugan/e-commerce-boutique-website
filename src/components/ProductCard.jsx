@@ -56,7 +56,7 @@ const ProductCard = ({ product }) => {
         <div className="product-overlay">
           <button onClick={handleAddToCart} className="add-to-cart-btn">
             <ShoppingCart size={16} strokeWidth={2} />
-            Add to Cart
+            Add
           </button>
         </div>
       </div>
@@ -99,7 +99,7 @@ const ProductCard = ({ product }) => {
       <div className="product-card-mobile-action">
         <button onClick={handleAddToCart}>
           <ShoppingCart size={14} strokeWidth={2} />
-          Add to Cart
+          Add
         </button>
       </div>
     </Link>

@@ -48,8 +48,46 @@ export const dataService = {
     // 3. Search Relevance Engine
     if (search) {
       const term = search.trim().toLowerCase();
-      // Only keep items that match the search_text
-      items = items.filter(item => (item.search_text || '').includes(term));
+      const rawTerms = term.split(/\\s+/);
+
+      // Define synonym mappings
+      const synMap = {
+        'baby': ['infant', 'infants'],
+        'babies': ['infant', 'infants', 'baby'],
+        'infant': ['baby', 'infants'],
+        'infants': ['baby', 'infant'],
+        'kid': ['kids'],
+        'kids': ['kid'],
+        'toddler': ['toddlers'],
+        'toddlers': ['toddler'],
+        'girl': ['girls'],
+        'girls': ['girl'],
+        'dress': ['dresses'],
+        'dresses': ['dress']
+      };
+
+      // Create term groups (term + its synonyms) for 'OR' matching within 'AND' clauses
+      const termGroups = rawTerms.map(t => {
+        const group = [t];
+        if (synMap[t]) group.push(...synMap[t]);
+        return group;
+      });
+
+      // Keep items that match ALL search terms (or their synonyms) across their searchable text
+      items = items.filter(item => {
+        const textToSearch = [
+          item.title,
+          item.category,
+          item.subcategory,
+          item.search_text,
+          item.fabric,
+          item.color,
+          ...(Array.isArray(item.tags) ? item.tags : [])
+        ].filter(Boolean).join(' ').toLowerCase();
+        
+        // Every group must have at least one term matched in textToSearch
+        return termGroups.every(group => group.some(t => textToSearch.includes(t)));
+      });
 
       // Apply scoring
       items = items.map(item => {
@@ -58,11 +96,20 @@ export const dataService = {
         const cat = (item.category || '').toLowerCase();
         const subcat = (item.subcategory || '').toLowerCase();
         
+        // Exact full term scores
         if (title === term) score += 200;
         else if (title.includes(term)) score += 100;
         if (cat === term || subcat === term) score += 50;
         if (item.fabric?.toLowerCase().includes(term)) score += 20;
         if (item.tags?.some(tag => tag.toLowerCase().includes(term))) score += 10;
+        
+        // Partial term scores
+        rawTerms.forEach(t => {
+          if (title.includes(t)) score += 10;
+          if (cat === t || subcat === t) score += 20;
+          if (Array.isArray(item.tags) && item.tags.some(tag => tag.toLowerCase() === t)) score += 15;
+          if (item.fabric?.toLowerCase().includes(t)) score += 5;
+        });
         
         return { ...item, _score: score };
       });
@@ -113,7 +160,6 @@ export const dataService = {
    */
   async getProductById(id) {
     const data = await fetchData();
-    const pid = typeof id === 'string' ? parseInt(id, 10) : id;
-    return data.products.find(p => p.id === pid) || null;
+    return data.products.find(p => String(p.id) === String(id)) || null;
   }
 };

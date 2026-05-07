@@ -9,11 +9,13 @@
     bottom: 0;
     left: 0;
     right: 0;
+    width: 100%;
     z-index: 1000;
     background: var(--color-surface);
     border-top: 1px solid var(--color-border);
-    padding: var(--space-2) 0 calc(var(--space-2) + env(safe-area-inset-bottom));
+    padding: var(--space-2) var(--space-2) calc(var(--space-2) + env(safe-area-inset-bottom));
     box-shadow: 0 -4px 20px rgba(0,0,0,0.06);
+    justify-content: space-around;
   }
 
   .bottom-nav-item {

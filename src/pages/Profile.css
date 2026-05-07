@@ -1,0 +1,291 @@
+/* ── Page shell ────────────────────────────────────────── */
+.profile-page {
+  min-height: calc(100vh - 200px);
+  padding: var(--space-8) 0 var(--space-12);
+}
+
+.profile-heading {
+  font-size: var(--text-3xl);
+  color: var(--color-text);
+  margin-bottom: var(--space-6);
+}
+
+/* ── Account Tabs ──────────────────────────────────────── */
+.account-tabs {
+  display: flex;
+  gap: var(--space-4);
+  margin-bottom: var(--space-6);
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: var(--space-4);
+}
+
+.account-tab {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  background: none;
+  border: none;
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  padding: var(--space-2) var(--space-4);
+  border-radius: var(--radius-md);
+  transition: all var(--transition-fast);
+}
+
+.account-tab:hover {
+  color: var(--color-primary);
+  background: var(--color-primary-bg);
+}
+
+.account-tab.active {
+  color: var(--color-primary);
+  background: var(--color-primary-bg);
+  box-shadow: inset 0 0 0 1px var(--color-primary-light);
+}
+
+/* ── Card base ─────────────────────────────────────────── */
+.profile-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-6);
+  transition: box-shadow var(--transition-fast);
+}
+
+.profile-card:hover {
+  box-shadow: var(--shadow-md);
+}
+
+/* ── Identity card ─────────────────────────────────────── */
+.identity-card {
+  display: flex;
+  align-items: center;
+  gap: var(--space-5);
+  margin-bottom: var(--space-6);
+  flex-wrap: wrap;
+}
+
+.avatar-wrap {
+  flex-shrink: 0;
+}
+
+.profile-avatar {
+  width: 72px;
+  height: 72px;
+  border-radius: var(--radius-full);
+  object-fit: cover;
+  border: 3px solid var(--color-primary-bg);
+  box-shadow: var(--shadow-sm);
+}
+
+.profile-avatar-fallback {
+  width: 72px;
+  height: 72px;
+  border-radius: var(--radius-full);
+  background: var(--color-primary-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-primary);
+  border: 3px solid var(--color-border);
+}
+
+.identity-info {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+
+.profile-name {
+  font-size: var(--text-xl);
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.profile-email {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+}
+
+.google-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-1);
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  font-weight: 500;
+  margin-top: var(--space-1);
+}
+
+.profile-logout-btn {
+  margin-left: auto;
+  padding: var(--space-2) var(--space-5);
+  border: 1.5px solid var(--color-border);
+  border-radius: var(--radius-full);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  color: var(--color-text-muted);
+  background: none;
+  transition: all var(--transition-fast);
+  white-space: nowrap;
+  font-family: var(--font-sans);
+}
+
+.profile-logout-btn:hover {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+  background: var(--color-primary-bg);
+}
+
+/* ── Form grid ─────────────────────────────────────────── */
+.profile-form-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: var(--space-5);
+  align-items: start;
+}
+
+/* ── Section header ────────────────────────────────────── */
+.profile-section-header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  color: var(--color-primary);
+  margin-bottom: var(--space-5);
+  padding-bottom: var(--space-3);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.profile-section-header h3 {
+  font-size: var(--text-base);
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+/* ── Fields ────────────────────────────────────────────── */
+.profile-field {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  margin-bottom: var(--space-4);
+}
+
+.profile-field:last-child {
+  margin-bottom: 0;
+}
+
+.profile-field label {
+  font-size: var(--text-sm);
+  font-weight: 600;
+  color: var(--color-text-muted);
+}
+
+.profile-field input {
+  padding: var(--space-3) var(--space-4);
+  border: 1.5px solid var(--color-border);
+  border-radius: var(--radius-md);
+  font-size: var(--text-sm);
+  font-family: var(--font-sans);
+  color: var(--color-text);
+  background: var(--color-bg);
+  outline: none;
+  transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.profile-field input:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px var(--color-primary-bg);
+}
+
+.profile-field input::placeholder {
+  color: var(--color-text-faint);
+}
+
+.profile-field-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-3);
+}
+
+/* ── Save row ──────────────────────────────────────────── */
+.profile-save-row {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  padding-top: var(--space-2);
+}
+
+.recent-orders-card {
+  grid-column: 1 / -1;
+}
+
+.profile-save-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-3) var(--space-7);
+  background: var(--color-primary);
+  color: white;
+  border: none;
+  border-radius: var(--radius-full);
+  font-size: var(--text-base);
+  font-weight: 700;
+  font-family: var(--font-sans);
+  cursor: pointer;
+  box-shadow: var(--shadow-brand);
+  transition: all var(--transition-base);
+}
+
+.profile-save-btn:hover {
+  background: var(--color-primary-dark);
+  box-shadow: var(--shadow-brand-lg);
+  transform: translateY(-1px);
+}
+
+.profile-save-btn.saved {
+  background: #16a34a;
+  box-shadow: 0 4px 14px rgba(22, 163, 74, 0.35);
+}
+
+.profile-save-hint {
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+}
+
+/* ── Responsive ────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .profile-form-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .identity-card {
+    gap: var(--space-4);
+  }
+
+  .profile-logout-btn {
+    margin-left: 0;
+    width: 100%;
+  }
+
+  .profile-save-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--space-2);
+  }
+
+  .profile-save-btn {
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .profile-field-row {
+    grid-template-columns: 1fr;
+  }
+}

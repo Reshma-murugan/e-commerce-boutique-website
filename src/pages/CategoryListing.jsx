@@ -107,6 +107,8 @@ const CategoryListing = () => {
           <p className="cl-count">{loading && filtered.length === 0 ? 'Loading...' : `${filtered.length} products`}</p>
           <div className="cl-toolbar-right">
             <select
+              id="sortProducts"
+              name="sortProducts"
               className="cl-sort"
               value={sort}
               onChange={e => setSort(e.target.value)}

@@ -337,6 +337,13 @@
   color: var(--color-text);
 }
 
+.success-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  width: 100%;
+}
+
 .success-cta {
   background: var(--color-primary);
   color: white;
@@ -349,6 +356,18 @@
   transition: all var(--transition-base);
   box-shadow: var(--shadow-brand);
   width: 100%;
+}
+
+.success-cta.secondary {
+  background: white;
+  color: var(--color-primary);
+  border: 1.5px solid var(--color-primary);
+  box-shadow: none;
+}
+
+.success-cta.secondary:hover {
+  background: rgba(242,0,60,0.05);
+  box-shadow: none;
 }
 
 .success-cta:hover {

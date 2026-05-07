@@ -3,13 +3,13 @@ import { useNavigate } from 'react-router-dom';
 import { Check } from 'lucide-react';
 import { CartContext } from '../context/CartContext.jsx';
 import { formatPrice } from '../utils/formatPrice';
+import { OrderContext } from '../context/OrderContext.jsx';
 import './Checkout.css';
 
 const STORAGE_KEY = 'aurarose-checkout-info';
 
 const defaultForm = {
   fullName: '',
-  email: '',
   phone: '',
   address: '',
   city: '',
@@ -17,10 +17,16 @@ const defaultForm = {
   paymentMethod: 'credit-card'
 };
 
+const PROFILE_KEY = 'aurarose-profile';
+
 const getSavedForm = () => {
   try {
     const saved = localStorage.getItem(STORAGE_KEY);
-    return saved ? { ...defaultForm, ...JSON.parse(saved) } : defaultForm;
+    const profile = localStorage.getItem(PROFILE_KEY);
+    const base = saved ? { ...defaultForm, ...JSON.parse(saved) } : defaultForm;
+    // Profile data (phone, address, city, zipCode) takes precedence
+    const profileData = profile ? JSON.parse(profile) : {};
+    return { ...base, ...profileData };
   } catch {
     return defaultForm;
   }
@@ -28,6 +34,7 @@ const getSavedForm = () => {
 
 const Checkout = () => {
   const { cart, getCartTotal, clearCart } = useContext(CartContext);
+  const { addOrder } = useContext(OrderContext);
   const navigate = useNavigate();
   const [orderPlaced, setOrderPlaced] = useState(false);
   const [orderSnapshot, setOrderSnapshot] = useState(null);
@@ -52,9 +59,22 @@ const Checkout = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const orderNumber = `AR-${Date.now().toString().slice(-6)}`;
+    const orderData = {
+      items: [...cart],
+      total: getCartTotal(),
+      shippingDetails: {
+        fullName: formData.fullName,
+        phone: formData.phone,
+        address: formData.address,
+        city: formData.city,
+        zipCode: formData.zipCode
+      },
+      paymentMethod: formData.paymentMethod
+    };
+    const orderId = addOrder(orderData);
     setOrderSnapshot({ items: [...cart], total: getCartTotal() });
-    setOrderPlaced(orderNumber);
+    clearCart();
+    setOrderPlaced(orderId);
   };
 
   // Sync success sound and scroll to top
@@ -98,12 +118,20 @@ const Checkout = () => {
           </div>
         </div>
 
-        <button
-          className="success-cta"
-          onClick={() => { clearCart(); navigate('/'); }}
-        >
-          Continue Shopping
-        </button>
+        <div className="success-buttons">
+          <button
+            className="success-cta"
+            onClick={() => navigate(`/orders/${orderPlaced}`)}
+          >
+            Track Order
+          </button>
+          <button
+            className="success-cta secondary"
+            onClick={() => navigate('/')}
+          >
+            Continue Shopping
+          </button>
+        </div>
       </div>
     );
   }
@@ -141,18 +169,6 @@ const Checkout = () => {
                   id="fullName"
                   name="fullName"
                   value={formData.fullName}
-                  onChange={handleInputChange}
-                  required
-                />
-              </div>
-
-              <div className="form-group">
-                <label htmlFor="email">Email Address *</label>
-                <input
-                  type="email"
-                  id="email"
-                  name="email"
-                  value={formData.email}
                   onChange={handleInputChange}
                   required
                 />

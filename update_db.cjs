@@ -40,7 +40,8 @@ try {
   });
 
   fs.writeFileSync(path, JSON.stringify(data, null, 2), 'utf8');
-  console.log("Database perfectly normalized!");
+  fs.writeFileSync('public/data/db.json', JSON.stringify(data, null, 2), 'utf8');
+  console.log("Database perfectly normalized and synced!");
 } catch(e) {
   console.error("Error migrating db.json:", e);
 }

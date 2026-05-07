@@ -6,6 +6,7 @@ import { WishlistProvider } from './context/WishlistContext.jsx'
 import { ToastProvider } from './context/ToastContext.jsx'
 import { SearchProvider } from './context/SearchContext.jsx'
 import { AuthProvider } from './context/AuthContext.jsx'
+import { OrderProvider } from './context/OrderContext.jsx'
 import App from './App.jsx'
 import './index.css'
 
@@ -15,11 +16,13 @@ createRoot(document.getElementById('root')).render(
       <AuthProvider>
         <ToastProvider>
           <SearchProvider>
-            <CartProvider>
-              <WishlistProvider>
-                <App />
-              </WishlistProvider>
-            </CartProvider>
+             <OrderProvider>
+              <CartProvider>
+                <WishlistProvider>
+                  <App />
+                </WishlistProvider>
+              </CartProvider>
+            </OrderProvider>
           </SearchProvider>
         </ToastProvider>
       </AuthProvider>

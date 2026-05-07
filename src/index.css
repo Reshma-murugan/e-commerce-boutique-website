@@ -67,6 +67,7 @@
 html {
   font-size: 16px;
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 body {
@@ -79,6 +80,8 @@ body {
   min-height: 100vh;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  width: 100%;
 }
 
 a {
@@ -89,6 +92,7 @@ a {
 img {
   display: block;
   max-width: 100%;
+  height: auto;
 }
 
 button {
@@ -101,6 +105,7 @@ button {
   max-width: 1200px;
   margin: 0 auto;
   padding: var(--space-8) var(--space-6);
+  width: 100%;
 }
 
 /* Focus visible for keyboard nav */

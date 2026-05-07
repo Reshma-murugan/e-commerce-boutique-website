@@ -208,4 +208,5 @@ while (products.length < TARGET) {
 }
 
 fs.writeFileSync('db.json', JSON.stringify({ products }, null, 2));
-console.log(`✅ Generated ${products.length} products → db.json`);
+fs.writeFileSync('public/data/db.json', JSON.stringify({ products }, null, 2));
+console.log(`✅ Generated ${products.length} products → db.json & public/data/db.json`);

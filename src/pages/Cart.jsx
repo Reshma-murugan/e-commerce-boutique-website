@@ -1,8 +1,9 @@
 import { useContext, useState } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
-import { ShoppingBag, Trash2, Plus, Minus, Tag, X } from 'lucide-react';
+import { Link, useNavigate, useLocation } from 'react-router-dom';
+import { ShoppingCart, Trash2, Plus, Minus, Tag, X, LogIn } from 'lucide-react';
 import { CartContext } from '../context/CartContext.jsx';
 import { ToastContext } from '../context/ToastContext.jsx';
+import { useAuth } from '../context/AuthContext.jsx';
 import { formatPrice } from '../utils/formatPrice';
 import './Cart.css';
 
@@ -17,7 +18,27 @@ const COUPONS = {
 const Cart = () => {
   const { cart, removeFromCart, incrementQty, decrementQty, getCartTotal } = useContext(CartContext);
   const { addToast } = useContext(ToastContext);
+  const { currentUser, loginWithGoogle } = useAuth();
   const navigate = useNavigate();
+  const location = useLocation();
+  const requireLogin = location.state?.requireLogin ?? false;
+  const [loginLoading, setLoginLoading] = useState(false);
+
+  const handleCheckout = async () => {
+    if (currentUser) {
+      navigate('/checkout');
+    } else {
+      setLoginLoading(true);
+      try {
+        await loginWithGoogle();
+        navigate('/checkout');
+      } catch {
+        addToast('Sign-in failed. Please try again.', 'error');
+      } finally {
+        setLoginLoading(false);
+      }
+    }
+  };
 
   const [couponInput, setCouponInput] = useState('');
   const [appliedCoupon, setAppliedCoupon] = useState(null);
@@ -58,7 +79,7 @@ const Cart = () => {
   if (cart.length === 0) {
     return (
       <div className="cart-empty">
-        <ShoppingBag size={64} strokeWidth={1} color="var(--color-border)" />
+        <ShoppingCart size={64} strokeWidth={1} color="var(--color-border)" />
         <h2>Your cart is empty</h2>
         <p>Add some beautiful items to your cart!</p>
         <Link to="/" className="continue-shopping-btn">Continue Shopping</Link>
@@ -143,6 +164,8 @@ const Cart = () => {
                 <>
                   <div className="coupon-input-row">
                     <input
+                      id="couponCode"
+                      name="couponCode"
                       type="text"
                       placeholder="Enter coupon code"
                       value={couponInput}
@@ -184,8 +207,22 @@ const Cart = () => {
               </p>
             )}
 
-            <button onClick={() => navigate('/checkout')} className="checkout-btn">
-              Proceed to Checkout
+            {requireLogin && (
+              <div className="login-required-banner">
+                <LogIn size={15} strokeWidth={2} />
+                <span>Please sign in to proceed to checkout.</span>
+              </div>
+            )}
+            <button
+              onClick={handleCheckout}
+              className="checkout-btn"
+              disabled={loginLoading}
+            >
+              {loginLoading
+                ? 'Signing in…'
+                : currentUser
+                ? 'Proceed to Checkout'
+                : 'Sign In & Checkout'}
             </button>
             <Link to="/" className="continue-shopping-link">Continue Shopping</Link>
           </div>

@@ -287,13 +287,13 @@
   }
 
   .hc-slide {
-    width: 60%;
-    height: 88%;
+    width: 85%;
+    height: 92%;
   }
 
   .hc-slide.center {
-    width: 60%;
-    height: 88%;
+    width: 85%;
+    height: 92%;
     border-radius: 16px;
   }
 

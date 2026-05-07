@@ -91,7 +91,7 @@
 .category-circles {
   display: flex;
   justify-content: center;
-  gap: var(--space-10);
+  gap: var(--space-8);
   flex-wrap: wrap;
 }
 
@@ -296,7 +296,7 @@
 /* ── Products Grid ─────────────────────────────────────── */
 .products-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  grid-template-columns: repeat(4, 1fr);
   gap: var(--space-6);
   margin-bottom: var(--space-8);
 }
@@ -355,8 +355,19 @@
   }
 
   .products-grid {
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(2, 1fr);
     gap: var(--space-4);
+  }
+
+  .category-circles {
+    gap: var(--space-4);
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .category-circle-img-wrap {
+    width: 110px;
+    height: 110px;
   }
 
   .category-cards {

@@ -165,7 +165,8 @@ async function main() {
   }
 
   fs.writeFileSync("db.json", JSON.stringify({ products }, null, 2));
-  console.log(`\n✅ db.json with ${products.length} products saved!`);
+  fs.writeFileSync("public/data/db.json", JSON.stringify({ products }, null, 2));
+  console.log(`\n✅ db.json with ${products.length} products saved to both places!`);
 }
 
 main().catch(err => { console.error("❌", err.message); process.exit(1); });

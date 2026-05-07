@@ -1,6 +1,6 @@
-import { Link, useLocation } from 'react-router-dom';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { useContext } from 'react';
-import { Home, Heart, ShoppingBag, LayoutGrid } from 'lucide-react';
+import { Home, Heart, ShoppingCart, LayoutGrid, User } from 'lucide-react';
 import { CartContext } from '../context/CartContext.jsx';
 import { WishlistContext } from '../context/WishlistContext.jsx';
 import { useAuth } from '../context/AuthContext.jsx';
@@ -11,16 +11,17 @@ const BottomNav = () => {
   const { wishlist } = useContext(WishlistContext);
   const { currentUser, loginWithGoogle } = useAuth();
   const { pathname } = useLocation();
+  const navigate = useNavigate();
 
   const links = [
     { to: '/',           label: 'Home',       Icon: Home },
     { to: '/categories', label: 'Categories', Icon: LayoutGrid },
     { to: '/wishlist',   label: 'Wishlist',   Icon: Heart,       badge: wishlist.length },
-    { to: '/cart',       label: 'Cart',       Icon: ShoppingBag, badge: getCartCount() },
+    { to: '/cart',       label: 'Cart',       Icon: ShoppingCart, badge: getCartCount() },
     { 
-      to: '#', 
-      label: currentUser ? (currentUser.displayName?.split(' ')[0] || 'Account') : 'Account', 
-      Icon: Home, // Placeholder Icon, will use avatar if logged in
+      to: '/profile', 
+      label: 'Account', 
+      Icon: User,
       isAuth: true 
     },
   ];
@@ -34,14 +35,14 @@ const BottomNav = () => {
           return (
             <button
               key="auth-btn"
-              onClick={!currentUser ? loginWithGoogle : undefined}
-              className={`bottom-nav-item auth-item ${currentUser ? 'active' : ''}`}
+              onClick={() => (!currentUser ? loginWithGoogle() : navigate('/profile'))}
+              className={`bottom-nav-item auth-item ${(currentUser && pathname === '/profile') ? 'active' : ''}`}
             >
               <span className="bottom-nav-icon">
                 {currentUser?.photoURL ? (
                   <img src={currentUser.photoURL} alt="" className="bottom-nav-avatar" />
                 ) : (
-                  <Home size={22} strokeWidth={currentUser ? 2.5 : 1.8} />
+                  <Icon size={22} strokeWidth={(currentUser && pathname === '/profile') ? 2.5 : 1.8} />
                 )}
               </span>
               <span className="bottom-nav-label">{label}</span>

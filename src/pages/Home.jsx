@@ -19,9 +19,11 @@ const TRUST_BADGES = [
 ];
 
 const SHOP_CATEGORIES = [
-  { key: 'girls',   label: 'Girls',   age: '6 – 14 Years',  image: girlsImg   },
-  { key: 'toddler', label: 'Toddler', age: '2 – 5 Years',   image: toddlerImg },
   { key: 'infant',  label: 'Baby',    age: '0 – 24 Months', image: infantImg  },
+  { key: 'toddler', label: 'Toddler', age: '2 – 5 Years',   image: toddlerImg },
+  { key: 'girls',   label: 'Girls',   age: '6 – 14 Years',  image: girlsImg   },
+  
+ 
 ];
 
 const Home = () => {

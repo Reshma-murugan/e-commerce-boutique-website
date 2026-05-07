@@ -1,0 +1,242 @@
+.order-history-page {
+  padding: 40px 20px 80px;
+  background-color: var(--color-background);
+  min-height: 80vh;
+}
+
+.order-history-page.empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.empty-icon {
+  color: var(--color-text-light);
+  margin-bottom: 16px;
+}
+
+.order-history-page.empty h2 {
+  font-size: 24px;
+  font-family: var(--font-heading);
+  color: var(--color-text);
+  margin-bottom: 8px;
+}
+
+.order-history-page.empty p {
+  color: var(--color-text-light);
+  margin-bottom: 24px;
+}
+
+.continue-shopping {
+  background-color: var(--color-primary);
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background-color 0.2s;
+}
+
+.continue-shopping:hover {
+  background-color: var(--color-primary-dark);
+}
+
+.page-title {
+  font-family: var(--font-heading);
+  font-size: 28px;
+  color: var(--color-text);
+  margin-bottom: 24px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.orders-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.order-card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+  border: 1px solid var(--color-border);
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.order-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.06);
+}
+
+.order-card-header {
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--color-secondary);
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  background-color: #fafafa;
+}
+
+.order-card-header > div {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.order-id {
+  font-weight: 600;
+  color: var(--color-text);
+  font-size: 16px;
+}
+
+.order-date {
+  font-size: 13px;
+  color: var(--color-text-light);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.order-status {
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.badge-placed {
+  background-color: #e0f2fe;
+  color: #0284c7;
+}
+
+.badge-confirmed {
+  background-color: #fef08a;
+  color: #854d0e;
+}
+
+.badge-shipped {
+  background-color: #fce7f3;
+  color: #be185d;
+}
+
+.badge-delivered {
+  background-color: #dcfce7;
+  color: #166534;
+}
+
+.badge-returned {
+  background-color: #fef3c7;
+  color: #b45309;
+}
+
+.badge-cancelled {
+  background-color: #fee2e2;
+  color: #b91c1c;
+}
+
+.order-card-body {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.order-items-preview {
+  display: flex;
+  gap: 12px;
+}
+
+.order-item-thumb {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  border-radius: 8px;
+  border: 1px solid var(--color-secondary);
+  overflow: hidden;
+  background: white;
+}
+
+.order-item-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.item-qty {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background: rgba(0,0,0,0.6);
+  color: white;
+  font-size: 10px;
+  padding: 2px 4px;
+  border-top-left-radius: 4px;
+}
+
+.order-item-thumb.more {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-secondary);
+  color: var(--color-text-light);
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.order-total-info {
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+}
+
+.total-label {
+  font-size: 13px;
+  color: var(--color-text-light);
+}
+
+.total-val {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.order-card-footer {
+  padding: 12px 20px;
+  background-color: #fafafa;
+  border-top: 1px solid var(--color-secondary);
+  display: flex;
+  justify-content: flex-end;
+}
+
+.track-btn {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--color-primary);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 14px;
+  transition: color 0.2s;
+}
+
+.track-btn:hover {
+  color: var(--color-primary-dark);
+}
+
+@media (max-width: 600px) {
+  .order-card-body {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+  }
+  .order-total-info {
+    text-align: left;
+  }
+}

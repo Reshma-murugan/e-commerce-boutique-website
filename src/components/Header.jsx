@@ -1,7 +1,7 @@
 import logo from '../assets/brandLogo/logo.png';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { useContext, useState, useRef, useEffect } from 'react';
-import { ShoppingBag, Heart, Home, Search, X, LayoutGrid, User, LogOut } from 'lucide-react';
+import { ShoppingCart, Heart, Home, Search, X, LayoutGrid, User, LogOut, Package } from 'lucide-react';
 import { CartContext } from '../context/CartContext.jsx';
 import { WishlistContext } from '../context/WishlistContext.jsx';
 import { useSearch } from '../context/SearchContext.jsx';
@@ -19,6 +19,7 @@ const Header = () => {
 
   const [showSuggestions, setShowSuggestions] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  const [avatarError, setAvatarError] = useState(false);
   const wrapperRef = useRef(null);
 
   useEffect(() => {
@@ -86,6 +87,8 @@ const Header = () => {
         <div className="header-search" ref={wrapperRef}>
           <Search size={16} className="search-icon" strokeWidth={2} />
           <input
+            id="searchInput"
+            name="searchInput"
             type="text"
             placeholder="Search products..."
             value={searchInput}
@@ -175,7 +178,7 @@ const Header = () => {
             )}
           </Link>
           <Link to="/cart" className={`nav-link cart-link ${pathname === '/cart' ? 'active' : ''}`}>
-            <ShoppingBag size={16} strokeWidth={2} />
+            <ShoppingCart size={16} strokeWidth={2} />
             <span className="nav-link-label">Cart</span>
             {getCartCount() > 0 && (
               <span className="cart-badge">{getCartCount()}</span>
@@ -185,19 +188,36 @@ const Header = () => {
           <div className="nav-auth">
             {currentUser ? (
               <div className="user-menu-wrapper">
-                <button className="nav-link user-profile-btn" aria-label="User profile">
-                  {currentUser.photoURL ? (
-                    <img src={currentUser.photoURL} alt="" className="user-avatar" />
+                <button
+                  className="nav-link user-profile-btn"
+                  aria-label="User profile"
+                  onClick={() => navigate('/profile')}
+                >
+                  {currentUser.photoURL && !avatarError ? (
+                    <img
+                      src={currentUser.photoURL}
+                      alt=""
+                      className="user-avatar"
+                      onError={() => setAvatarError(true)}
+                    />
                   ) : (
                     <User size={16} strokeWidth={2} />
                   )}
-                  <span className="nav-link-label">{currentUser.displayName?.split(' ')[0] || 'Account'}</span>
+                  <span className="nav-link-label">Account</span>
                 </button>
                 <div className="user-dropdown">
                   <div className="user-dropdown-header">
                     <p className="user-name">{currentUser.displayName}</p>
                     <p className="user-email">{currentUser.email}</p>
                   </div>
+                  <button onClick={() => navigate('/profile')} className="dropdown-item">
+                    <User size={14} />
+                    <span>My Profile</span>
+                  </button>
+                  <button onClick={() => navigate('/orders')} className="dropdown-item">
+                    <Package size={14} />
+                    <span>My Orders</span>
+                  </button>
                   <button onClick={logout} className="dropdown-item logout-btn">
                     <LogOut size={14} />
                     <span>Sign Out</span>

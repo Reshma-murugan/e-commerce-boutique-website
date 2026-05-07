@@ -157,13 +157,13 @@
 
 .move-to-cart-btn {
   flex: 1;
-  background: var(--color-primary);
-  color: white;
+  background: var(--color-primary-bg);
+  color: var(--color-primary);
   border: none;
   padding: var(--space-3);
-  border-radius: var(--radius-md);
+  border-radius: var(--radius-full);
   font-size: var(--text-sm);
-  font-weight: 600;
+  font-weight: 700;
   transition: all var(--transition-fast);
   display: flex;
   align-items: center;
@@ -172,7 +172,7 @@
 }
 
 .move-to-cart-btn:hover {
-  background: var(--color-primary-dark);
+  background: var(--color-primary-bg2);
 }
 
 .remove-wishlist-btn {
@@ -180,7 +180,7 @@
   border: 1px solid var(--color-border);
   width: 36px;
   height: 36px;
-  border-radius: var(--radius-md);
+  border-radius: var(--radius-full);
   font-size: var(--text-sm);
   cursor: pointer;
   color: var(--color-text-faint);

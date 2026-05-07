@@ -14,6 +14,10 @@ import CategoryListing from './pages/CategoryListing'
 import SearchResults from './pages/SearchResults'
 import About from './pages/About'
 import NotFound from './pages/NotFound'
+import Profile from './pages/Profile'
+import OrderHistory from './pages/OrderHistory'
+import OrderTracking from './pages/OrderTracking'
+import ProtectedRoute from './components/ProtectedRoute'
 import './App.css'
 
 const ScrollToTop = () => {
@@ -43,8 +47,11 @@ function App() {
           <Route path="/product/:id" element={<ProductDetails />} />
           <Route path="/search" element={<SearchResults />} />
           <Route path="/cart" element={<Cart />} />
-          <Route path="/checkout" element={<Checkout />} />
+          <Route path="/checkout" element={<ProtectedRoute><Checkout /></ProtectedRoute>} />
           <Route path="/wishlist" element={<Wishlist />} />
+          <Route path="/profile" element={<ProtectedRoute><Profile /></ProtectedRoute>} />
+          <Route path="/orders" element={<ProtectedRoute><OrderHistory /></ProtectedRoute>} />
+          <Route path="/orders/:id" element={<ProtectedRoute><OrderTracking /></ProtectedRoute>} />
           <Route path="/about" element={<About />} />
           <Route path="*" element={<NotFound />} />
         </Routes>

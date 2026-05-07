@@ -107,7 +107,7 @@
 }
 
 .add-to-cart-btn {
-  background: white;
+  background: var(--color-primary-bg);
   color: var(--color-primary);
   border: none;
   padding: var(--space-3) var(--space-6);
@@ -230,13 +230,13 @@
 
 .product-card-mobile-action button {
   width: 100%;
-  background: var(--color-primary);
-  color: white;
+  background: var(--color-primary-bg);
+  color: var(--color-primary);
   border: none;
   padding: var(--space-3);
-  border-radius: var(--radius-md);
+  border-radius: var(--radius-full);
   font-size: var(--text-sm);
-  font-weight: 600;
+  font-weight: 700;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -253,7 +253,7 @@
   }
 
   .product-image-wrapper {
-    aspect-ratio: 1 / 1;
+    aspect-ratio: 3 / 4;
   }
 }
 
